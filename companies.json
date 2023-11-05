@@ -1,0 +1,80 @@
+[
+    {
+        "names": [
+            "HP",
+            "Hewlett Packard"
+        ],
+        "description": "Hewlett Packard helps run the biometric ID system that Israel uses to restrict Palestinian movement.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/boycott-hp"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Siemens"
+        ],
+        "description": "Siemens is complicit in apartheid Israel’s illegal settlement enterprise through its planned construction of the EuroAsia Interconnector. This will link Israel’s electricity grid with Europe’s, allowing illegal settlements on stolen Palestinian land to benefit from Israel-EU trade of electricity produced from fossil gas.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/siemens-and-chevron-stop-fueling-apartheid-and-climate-disaster"
+            }
+        ]
+    },
+    {
+        "names": [
+            "AXA"
+        ],
+        "description": "AXA invests in Israeli banks, which finance the theft of Palestinian land and natural resources. Do not buy insurance policies with AXA, or if you currently have an insurance policy with them, try cancelling it.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/axa-divest"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Puma"
+        ],
+        "description": "Puma sponsors the Israel Football Association, which includes teams in Israel’s illegal settlements on occupied Palestinian land.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/boycott-puma"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Israeli Fruit and Vegetables"
+        ],
+        "description": "Fruits, vegetables and wines from Israel are often wrongly labelled as “Produce in Israel” when they come from stolen Palestinian land. Boycott all produce from Israel in your supermarket and demand they are removed from shelves.",
+        "supportUrls": []
+    },
+    {
+        "names": [
+            "SodaStream",
+            "Soda Stream"
+        ],
+        "description": "Soda Steam is actively complicit in Israel's policy of displacing the indigenous Bedouin-Palestinian citizens of Israel in the Naqab (Negev). SodaStream have a long history of mistreatment of and discrimination against Palestinian workers.",
+        "supportUrls": []
+    },
+    {
+        "names": [
+            "Ahava"
+        ],
+        "description": "Ahava cosmetics has its production site, visitor center and main store in an illegal Israeli settlement.",
+        "supportUrls": []
+    },
+    {
+        "names": [
+            "Sabra"
+        ],
+        "description": "Sabra hummus is a joint venture between PepsiCo and the Strauss Group, an Israeli food company that provides financial support to the Israeli army.",
+        "supportUrls": []
+    }
+]
