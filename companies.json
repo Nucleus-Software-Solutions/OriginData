@@ -21,6 +21,14 @@
             {
                 "name": "BDS link",
                 "url": "https://bdsmovement.net/siemens-and-chevron-stop-fueling-apartheid-and-climate-disaster"
+            },
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/siemens-and-chevron-stop-fueling-apartheid-and-climate-disaster"
+            },
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/siemens-and-chevron-stop-fueling-apartheid-and-climate-disaster"
             }
         ]
     },
@@ -53,7 +61,12 @@
             "Israeli Fruit and Vegetables"
         ],
         "description": "Fruits, vegetables and wines from Israel are often wrongly labelled as “Produce in Israel” when they come from stolen Palestinian land. Boycott all produce from Israel in your supermarket and demand they are removed from shelves.",
-        "supportUrls": []
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
     },
     {
         "names": [
@@ -61,20 +74,191 @@
             "Soda Stream"
         ],
         "description": "Soda Steam is actively complicit in Israel's policy of displacing the indigenous Bedouin-Palestinian citizens of Israel in the Naqab (Negev). SodaStream have a long history of mistreatment of and discrimination against Palestinian workers.",
-        "supportUrls": []
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
     },
     {
         "names": [
             "Ahava"
         ],
         "description": "Ahava cosmetics has its production site, visitor center and main store in an illegal Israeli settlement.",
-        "supportUrls": []
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
     },
     {
         "names": [
             "Sabra"
         ],
         "description": "Sabra hummus is a joint venture between PepsiCo and the Strauss Group, an Israeli food company that provides financial support to the Israeli army.",
-        "supportUrls": []
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Carrefour"
+        ],
+        "description": "Carrefour is a genocide enabler. Carrefour-Israel has supported Israeli soldiers partaking in the unfolding genocide of Palestinians in Gaza with gifts of personal packages. In 2022, it entered a partnership with the Israeli company Electra Consumer Products and its subsidiary Yenot Bitan, both of which are involved in grave violations against the Palestinian people.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Elbit Systems"
+        ],
+        "description": "Elbit Systems, apartheid Israel’s largest arms company and “field-tests” its weapons on Palestinians, including in Israel’s ongoing genocidal war on Palestinins in Gaza. On top of building killer drones, Elbit makes surveillance technology for Israel's apartheid wall, checkpoints and Gaza fence, enabling apartheid. The US and EU use Elbit's tech to militarize their borders, violating refugee and indigenous peoples' rights.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "HD Hyundai/Volvo/CAT/JCB"
+        ],
+        "description": "Machinery from HD Hyundai, Vovlo, CAT, and JCB has been used by Israel in the ethnic cleansing and forced displacement of the Palestinian people through the destruction of Palestinian homes, farms, and businesses, as well as the construction of illegal settlements, a war crime under international law.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Google and Amazon"
+        ],
+        "description": "As the Israeli military bombed homes, clinics, and schools in Gaza and threatened to push Palestinian families from their homes in occupied Jerusalem May 2021, Amazon Web Services and Google Cloud executives signed a $1.22 billion contract to provide cloud technology to the Israeli government and military. By supporting Israeli apartheid with vital technologies, Amazon and Google are directly implicated in its entire system of oppression, including its unfolding genocide in Gaza.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Airbnb/Booking/Expedia"
+        ],
+        "description": "Airbnb, Booking.com and Expedia all offer rentals in illegal Israeli settlements built on stolen Palestinian land. While the campaigns targeting these corporations have not called for boycotts, other forms of pressure have been adopted to force them to end their complicity.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "RE/MAX"
+        ],
+        "description": "The company markets and sells property in illegal Israeli settlements built on stolen Palestinian land, thus enabling Israel’s colonization of the occupied West Bank.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Barclays"
+        ],
+        "description": "Barclays Bank (UK) holds more than £1 billion in shares and provides more than £3bn in loans and underwriting to nine companies whose weapons, components and military technology have been used in Israel’s armed violence against Palestinians.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "RE/MAX"
+        ],
+        "description": "Barclays Bank (UK) holds more than £1 billion in shares and provides more than £3bn in loans and underwriting to nine companies whose weapons, components and military technology have been used in Israel’s armed violence against Palestinians.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "CAF"
+        ],
+        "description": "Basque transport firm, CAF, builds and services the Jerusalem Light Rail (JLR), a tram line that serves Israel's illegal settlements in Jerusalem. CAF benefits from Israel’s war crimes on stolen Palestinian land.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Chevron"
+        ],
+        "description": "US fossil fuel multinational Chevron is the main international corporation extracting gas claimed by apartheid Israel in the East Mediterranean. Chevron generates billions in revenues, strengthening Israel’s war chest. Chevron fuels Israeli apartheid and the climate crisis.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "HikVision"
+        ],
+        "description": "Amnesty International has documented high-resolution CCTV cameras made by the Chinese company Hikvision installed in residential areas and mounted to Israeli military infrastructure for surveillance of Palestinians. Some of these models, according to Hikvision’s own marketing, can plug into external facial recognition software.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "TKH Security"
+        ],
+        "description": "Amnesty International has identified cameras made by the Dutch company TKH Security used by Israel for surveillance of Palestinians. TKH provides Israeli police with surveillance technology that is used to entrench apartheid.",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
+    },
+    {
+        "names": [
+            "McDonald’s, Burger King, Papa John’s, Pizza Hut, WIX"
+        ],
+        "description": "McDonald’s, Burger King, Papa John’s, Pizza Hut, WIX, etc. are now being targeted by grassroots organic boycott campaigns, not initiated by the BDS movement, because these companies, or their branches or franchises in Israel, have openly supported Israel and/or provided generous in-kind donations to the Israeli military amid the current Israeli offensive against 2.3 million Palestinians in the occupied and besieged Gaza Strip–described by leading international scholars of international law as an “unfolding genocide.”",
+        "supportUrls": [
+            {
+                "name": "BDS link",
+                "url": "https://bdsmovement.net/news/what-boycott-now-help-stop-israel%E2%80%99s-unfolding-genocide-palestinians-gaza"
+            }
+        ]
     }
 ]
