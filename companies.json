@@ -351,6 +351,20 @@
     },
     {
         "names": [
+            "Arwa"
+        ],
+        "subtitle": "Water brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Arwa, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://static1.squarespace.com/static/5864860159cc68953ac8600c/t/5f453f211583ee7c9ab872a2/1598373670070/arwa_cover_small_social.jpg?format=1500w",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "names": [
             "Aussie"
         ],
         "subtitle": "Hair care brand.",
@@ -477,6 +491,20 @@
     },
     {
         "names": [
+            "Barbican"
+        ],
+        "subtitle": "Malt drink brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Barbican, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/9/AmazonStores/A21TJRUUN4KGV/e6a4dc4396b5e27b1abc99ce5dacb555.w600.h600.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "names": [
             "Barclays"
         ],
         "subtitle": "British multinational universal bank, headquartered in London.",
@@ -589,6 +617,20 @@
     },
     {
         "names": [
+            "Body Armor"
+        ],
+        "subtitle": "Energy drink brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Body Armor, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://toppng.com/uploads/preview/body-armor-logo-bodyarmor-sports-drink-logo-115629020450ktd7fx7vm.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "names": [
             "Boeing"
         ],
         "subtitle": "Boeing is responsible for military and aerospace products and services.",
@@ -654,6 +696,20 @@
             {
                 "name": "Proof",
                 "url": "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Bounty Paper Towels"
+        ],
+        "subtitle": "Cleaning products.",
+        "description": "Bounty Paper Towels is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/Bounty_logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5"
             }
         ]
     },
@@ -883,6 +939,20 @@
     },
     {
         "names": [
+            "Charmin"
+        ],
+        "subtitle": "Cleaning products.",
+        "description": "Charmin is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Charmin.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5"
+            }
+        ]
+    },
+    {
+        "names": [
             "Cheapflights"
         ],
         "subtitle": "Cheapflights is a website owned by Booking Holdings.",
@@ -1060,6 +1130,20 @@
             {
                 "name": "Proof",
                 "url": "https://www.timesofisrael.com/french-dairy-giant-danone-leads-3-5m-investment-into-israeli-cultured-milk-startup/"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Crest Toothpaste"
+        ],
+        "subtitle": "Dental hygiene products.",
+        "description": "Crest Toothpaste is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "imageUrl": "https://cdn.freebiesupply.com/logos/large/2x/crest-2-logo-svg-vector.svg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5"
             }
         ]
     },
@@ -1261,6 +1345,34 @@
     },
     {
         "names": [
+            "Dogadan"
+        ],
+        "subtitle": "Beverage brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Dogadan, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://www.tokfood.com/image/cache/catalog/brands/logo_dogadan_1-256x256.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Dolce Gusto"
+        ],
+        "subtitle": "Dolce Gusto is a coffee brand owned by Nestle.",
+        "description": "The owner of the Dolce Gusto brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Nescafe_dolcegusto_logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://en.wikipedia.org/wiki/Osem_(company)"
+            }
+        ]
+    },
+    {
+        "names": [
             "Dolmio"
         ],
         "subtitle": "Dolmio is a food brand which is owned by Mars.",
@@ -1401,6 +1513,20 @@
     },
     {
         "names": [
+            "Fairlife"
+        ],
+        "subtitle": "Dairy brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Fairlife, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://pbs.twimg.com/ext_tw_video_thumb/870299464937951233/pu/img/95vVRzO2de_rr3OJ.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "names": [
             "Fairy"
         ],
         "subtitle": "Household cleaning products.",
@@ -1508,6 +1634,20 @@
             {
                 "name": "Proof",
                 "url": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Fuzetea"
+        ],
+        "subtitle": "Iced tea brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Fuzetea, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/6/62/FuzeTea_.PNG/revision/latest?cb=20180709165105",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
             }
         ]
     },
@@ -2605,6 +2745,20 @@
     },
     {
         "names": [
+            "Minute Maid"
+        ],
+        "subtitle": "Juice brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Minute Maid, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2020/09/Minute-Maid-Logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "names": [
             "Monday.com"
         ],
         "subtitle": "Project management software based in Tel Aviv",
@@ -3571,6 +3725,20 @@
     },
     {
         "names": [
+            "Simply Beverages"
+        ],
+        "subtitle": "Beverage brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Simply Beverages, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://dlmdistributors.com/wp-content/uploads/2019/09/simply-beverages-logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "names": [
             "Skechers"
         ],
         "subtitle": "Footwear brand focussing on sneakers.",
@@ -3622,6 +3790,20 @@
             {
                 "name": "Proof",
                 "url": "https://en.wikipedia.org/wiki/Osem_(company)"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Smartwater"
+        ],
+        "subtitle": "Water brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Smartwater, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://www.coca-colahellenic.com/content/dam/cch/us/images/our-24-7-portfolio/brand-image/glaceau-smartwater-logo-300x300.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
             }
         ]
     },
@@ -3874,6 +4056,20 @@
             {
                 "name": "Proof",
                 "url": "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+            }
+        ]
+    },
+    {
+        "names": [
+            "Tide"
+        ],
+        "subtitle": "Laundry products.",
+        "description": "Tide is owned by Procter and Gamble, who opened an R&D center in Tel Aviv, Occupied Palestine, in which it invests $2bn annually.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Tide_Logo_RGB_2014.png/1200px-Tide_Logo_RGB_2014.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.forbes.com/sites/ricardogeromel/2012/05/16/procter-and-gamble-israel-startup/?sh=766ad3d811f5"
             }
         ]
     },
