@@ -1,5 +1,6 @@
 [
     {
+        "name": "7up",
         "names": [
             "7up"
         ],
@@ -14,20 +15,7 @@
         ]
     },
     {
-        "names": [
-            "AXA"
-        ],
-        "subtitle": "AXA is a French multinational insurance firm.",
-        "description": "AXA continues to invest in Israeli banks which are complicit in Israels occupation and apartheid in Palestine.",
-        "imageUrl": "https://www.tabletalkmedia.co.uk/wp-content/uploads/2015/03/axa.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://bdsmovement.net/news/axa-continues-investments-in-israeli-apartheid-boycott-axa-now"
-            }
-        ]
-    },
-    {
+        "name": "Acqua Panna",
         "names": [
             "Acqua Panna"
         ],
@@ -42,6 +30,7 @@
         ]
     },
     {
+        "name": "Actimel",
         "names": [
             "Actimel"
         ],
@@ -56,6 +45,7 @@
         ]
     },
     {
+        "name": "Activia",
         "names": [
             "Activia"
         ],
@@ -70,6 +60,7 @@
         ]
     },
     {
+        "name": "Adidas",
         "names": [
             "Adidas"
         ],
@@ -84,6 +75,7 @@
         ]
     },
     {
+        "name": "Aerin",
         "names": [
             "Aerin"
         ],
@@ -98,6 +90,7 @@
         ]
     },
     {
+        "name": "Aero",
         "names": [
             "Aero"
         ],
@@ -112,6 +105,7 @@
         ]
     },
     {
+        "name": "Aesop",
         "names": [
             "Aesop"
         ],
@@ -126,6 +120,7 @@
         ]
     },
     {
+        "name": "Agoda",
         "names": [
             "Agoda"
         ],
@@ -140,6 +135,7 @@
         ]
     },
     {
+        "name": "Ahava",
         "names": [
             "Ahava"
         ],
@@ -154,6 +150,7 @@
         ]
     },
     {
+        "name": "Airbnb",
         "names": [
             "Airbnb"
         ],
@@ -168,6 +165,7 @@
         ]
     },
     {
+        "name": "Airwaves",
         "names": [
             "Airwaves"
         ],
@@ -182,6 +180,22 @@
         ]
     },
     {
+        "name": "Aldi Nord (not UK)",
+        "names": [
+            "Aldi Nord (not UK)"
+        ],
+        "subtitle": "Aldi Nord operates in North Germany, North Europe and West Europe is a supermarket chain which is financially, legally and operationally separate from Aldi Sud (South Germany, UK and South East Europe) following a disagreement between the owners in 1960s and a subsequent split.",
+        "description": "Aldi Nord specifically (not Aldi Sud) partners with israeli startup Trigo to make autonomous stores.",
+        "imageUrl": "https://logowik.com/content/uploads/images/aldi8490.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.trigoretail.com/customer-stories/aldi-nord-utrecht/"
+            }
+        ]
+    },
+    {
+        "name": "Alpro",
         "names": [
             "Alpro"
         ],
@@ -196,6 +210,7 @@
         ]
     },
     {
+        "name": "Always",
         "names": [
             "Always"
         ],
@@ -210,6 +225,7 @@
         ]
     },
     {
+        "name": "Amazon",
         "names": [
             "Amazon"
         ],
@@ -224,6 +240,7 @@
         ]
     },
     {
+        "name": "Ambipur",
         "names": [
             "Ambipur"
         ],
@@ -238,6 +255,7 @@
         ]
     },
     {
+        "name": "American Eagle",
         "names": [
             "American Eagle"
         ],
@@ -252,6 +270,7 @@
         ]
     },
     {
+        "name": "Amika",
         "names": [
             "Amika"
         ],
@@ -266,6 +285,7 @@
         ]
     },
     {
+        "name": "Appletiser",
         "names": [
             "Appletiser"
         ],
@@ -280,6 +300,7 @@
         ]
     },
     {
+        "name": "Aptamil",
         "names": [
             "Aptamil"
         ],
@@ -294,6 +315,7 @@
         ]
     },
     {
+        "name": "Aquafina",
         "names": [
             "Aquafina"
         ],
@@ -308,6 +330,7 @@
         ]
     },
     {
+        "name": "Aquarius",
         "names": [
             "Aquarius"
         ],
@@ -322,6 +345,7 @@
         ]
     },
     {
+        "name": "Aramis",
         "names": [
             "Aramis"
         ],
@@ -336,6 +360,7 @@
         ]
     },
     {
+        "name": "Ariel",
         "names": [
             "Ariel"
         ],
@@ -350,6 +375,7 @@
         ]
     },
     {
+        "name": "Arwa",
         "names": [
             "Arwa"
         ],
@@ -364,6 +390,7 @@
         ]
     },
     {
+        "name": "Aussie",
         "names": [
             "Aussie"
         ],
@@ -378,6 +405,7 @@
         ]
     },
     {
+        "name": "Aviva",
         "names": [
             "Aviva"
         ],
@@ -392,6 +420,22 @@
         ]
     },
     {
+        "name": "AXA",
+        "names": [
+            "AXA"
+        ],
+        "subtitle": "AXA is a French multinational insurance firm.",
+        "description": "AXA continues to invest in Israeli banks which are complicit in Israels occupation and apartheid in Palestine.",
+        "imageUrl": "https://www.tabletalkmedia.co.uk/wp-content/uploads/2015/03/axa.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://bdsmovement.net/news/axa-continues-investments-in-israeli-apartheid-boycott-axa-now"
+            }
+        ]
+    },
+    {
+        "name": "Axe",
         "names": [
             "Axe"
         ],
@@ -406,6 +450,7 @@
         ]
     },
     {
+        "name": "BAE Systems",
         "names": [
             "BAE Systems"
         ],
@@ -420,48 +465,22 @@
         ]
     },
     {
+        "name": "Bally",
         "names": [
-            "BIOTHERM"
+            "Bally"
         ],
-        "subtitle": "Beauty brand, owned by L'Oreal.",
-        "description": "BIOTHERM is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
-        "imageUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/0889/brand.gif",
+        "subtitle": "Fashion brand owned by JAB Holdings which is owned by the Reimann family.",
+        "description": "The owners of Bally, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2021/04/Bally-Logo-old.png",
         "supportUrls": [
             {
                 "name": "Proof",
-                "url": "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+                "url": "https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation"
             }
         ]
     },
     {
-        "names": [
-            "BNP Paribas"
-        ],
-        "subtitle": "French multinational universal bank and financial services holding company",
-        "description": "BNP Paribas was part of a $500m loan deal with a consortium of lenders, into Elbit Systems Ltd, the Israeli weapons manufacturer.",
-        "imageUrl": "https://www.fintechfutures.com/files/2017/04/BNP-Paribas.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://breachmedia.ca/revealed-bmo-bankrolled-israeli-weapons-maker-with-a-90m-loan/"
-            }
-        ]
-    },
-    {
-        "names": [
-            "BP (British Petroleum)"
-        ],
-        "subtitle": "BP is a British oil and gas company",
-        "description": "BP was recently awarded exploration rights off the coast of israel, which would include water which should be Palestinian controlled.",
-        "imageUrl": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.reuters.com/business/energy/israel-awards-gas-exploration-licences-eni-bp-four-others-2023-10-29/"
-            }
-        ]
-    },
-    {
+        "name": "Bank of America",
         "names": [
             "Bank of America"
         ],
@@ -476,6 +495,7 @@
         ]
     },
     {
+        "name": "Bank of Montreal",
         "names": [
             "Bank of Montreal"
         ],
@@ -490,6 +510,7 @@
         ]
     },
     {
+        "name": "Barbican",
         "names": [
             "Barbican"
         ],
@@ -504,6 +525,7 @@
         ]
     },
     {
+        "name": "Barclays",
         "names": [
             "Barclays"
         ],
@@ -518,6 +540,7 @@
         ]
     },
     {
+        "name": "Bath & Body Works",
         "names": [
             "Bath & Body Works"
         ],
@@ -532,6 +555,7 @@
         ]
     },
     {
+        "name": "Bayer Pharmaceuticals",
         "names": [
             "Bayer Pharmaceuticals"
         ],
@@ -546,6 +570,7 @@
         ]
     },
     {
+        "name": "Belvita",
         "names": [
             "Belvita"
         ],
@@ -560,6 +585,7 @@
         ]
     },
     {
+        "name": "Ben & Jerry's",
         "names": [
             "Ben & Jerry's"
         ],
@@ -574,6 +600,7 @@
         ]
     },
     {
+        "name": "Ben's Originals",
         "names": [
             "Ben's Originals"
         ],
@@ -588,6 +615,7 @@
         ]
     },
     {
+        "name": "Benefit Cosmetics",
         "names": [
             "Benefit Cosmetics"
         ],
@@ -602,6 +630,37 @@
         ]
     },
     {
+        "name": "BIOTHERM",
+        "names": [
+            "BIOTHERM"
+        ],
+        "subtitle": "Beauty brand, owned by L'Oreal.",
+        "description": "BIOTHERM is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "imageUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0000/0889/brand.gif",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+            }
+        ]
+    },
+    {
+        "name": "BNP Paribas",
+        "names": [
+            "BNP Paribas"
+        ],
+        "subtitle": "French multinational universal bank and financial services holding company",
+        "description": "BNP Paribas was part of a $500m loan deal with a consortium of lenders, into Elbit Systems Ltd, the Israeli weapons manufacturer.",
+        "imageUrl": "https://www.fintechfutures.com/files/2017/04/BNP-Paribas.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://breachmedia.ca/revealed-bmo-bankrolled-israeli-weapons-maker-with-a-90m-loan/"
+            }
+        ]
+    },
+    {
+        "name": "Bobbi Brown",
         "names": [
             "Bobbi Brown"
         ],
@@ -616,6 +675,7 @@
         ]
     },
     {
+        "name": "Body Armor",
         "names": [
             "Body Armor"
         ],
@@ -630,6 +690,7 @@
         ]
     },
     {
+        "name": "Boeing",
         "names": [
             "Boeing"
         ],
@@ -644,6 +705,7 @@
         ]
     },
     {
+        "name": "Bold",
         "names": [
             "Bold"
         ],
@@ -658,6 +720,7 @@
         ]
     },
     {
+        "name": "Bomaja",
         "names": [
             "Bomaja"
         ],
@@ -672,6 +735,7 @@
         ]
     },
     {
+        "name": "Booking.com",
         "names": [
             "Booking.com"
         ],
@@ -686,6 +750,7 @@
         ]
     },
     {
+        "name": "Bounty",
         "names": [
             "Bounty"
         ],
@@ -700,6 +765,7 @@
         ]
     },
     {
+        "name": "Bounty Paper Towels",
         "names": [
             "Bounty Paper Towels"
         ],
@@ -714,6 +780,22 @@
         ]
     },
     {
+        "name": "BP (British Petroleum)",
+        "names": [
+            "BP (British Petroleum)"
+        ],
+        "subtitle": "BP is a British oil and gas company",
+        "description": "BP was recently awarded exploration rights off the coast of israel, which would include water which should be Palestinian controlled.",
+        "imageUrl": "https://bp.com/content/dam/bp/business-sites/en/global/corporate/images-jpg-png/who-we-are/bp-helios-card.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.reuters.com/business/energy/israel-awards-gas-exploration-licences-eni-bp-four-others-2023-10-29/"
+            }
+        ]
+    },
+    {
+        "name": "Braun",
         "names": [
             "Braun"
         ],
@@ -728,6 +810,7 @@
         ]
     },
     {
+        "name": "Bulgari / Bvlgari",
         "names": [
             "Bulgari / Bvlgari"
         ],
@@ -742,6 +825,7 @@
         ]
     },
     {
+        "name": "Burger King",
         "names": [
             "Burger King"
         ],
@@ -756,6 +840,7 @@
         ]
     },
     {
+        "name": "Buxton",
         "names": [
             "Buxton"
         ],
@@ -770,6 +855,7 @@
         ]
     },
     {
+        "name": "Cadbury",
         "names": [
             "Cadbury"
         ],
@@ -784,6 +870,7 @@
         ]
     },
     {
+        "name": "Capital One",
         "names": [
             "Capital One"
         ],
@@ -798,6 +885,22 @@
         ]
     },
     {
+        "name": "Caribou Coffee",
+        "names": [
+            "Caribou Coffee"
+        ],
+        "subtitle": "Coffee chain owned by JAB Holdings which is owned by the Reimann family.",
+        "description": "The owners of Caribou Coffee, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "imageUrl": "https://seeklogo.com/images/C/caribou-coffee-logo-77816BAC85-seeklogo.com.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation"
+            }
+        ]
+    },
+    {
+        "name": "Carmel Agrexco",
         "names": [
             "Carmel Agrexco"
         ],
@@ -812,6 +915,7 @@
         ]
     },
     {
+        "name": "Carnation",
         "names": [
             "Carnation"
         ],
@@ -826,6 +930,7 @@
         ]
     },
     {
+        "name": "Carrefour",
         "names": [
             "Carrefour"
         ],
@@ -840,6 +945,7 @@
         ]
     },
     {
+        "name": "Carte D'Or Ice Creams",
         "names": [
             "Carte D'Or Ice Creams"
         ],
@@ -854,6 +960,7 @@
         ]
     },
     {
+        "name": "Caterpillar",
         "names": [
             "Caterpillar"
         ],
@@ -868,6 +975,7 @@
         ]
     },
     {
+        "name": "Catsan",
         "names": [
             "Catsan"
         ],
@@ -882,6 +990,7 @@
         ]
     },
     {
+        "name": "Celebrations",
         "names": [
             "Celebrations"
         ],
@@ -896,6 +1005,7 @@
         ]
     },
     {
+        "name": "Celine",
         "names": [
             "Celine"
         ],
@@ -910,6 +1020,7 @@
         ]
     },
     {
+        "name": "Cerave",
         "names": [
             "Cerave"
         ],
@@ -924,6 +1035,7 @@
         ]
     },
     {
+        "name": "Chanel",
         "names": [
             "Chanel"
         ],
@@ -938,6 +1050,7 @@
         ]
     },
     {
+        "name": "Charmin",
         "names": [
             "Charmin"
         ],
@@ -952,6 +1065,7 @@
         ]
     },
     {
+        "name": "Cheapflights",
         "names": [
             "Cheapflights"
         ],
@@ -966,6 +1080,7 @@
         ]
     },
     {
+        "name": "Cheerios",
         "names": [
             "Cheerios"
         ],
@@ -980,6 +1095,7 @@
         ]
     },
     {
+        "name": "Cheetos",
         "names": [
             "Cheetos"
         ],
@@ -994,6 +1110,7 @@
         ]
     },
     {
+        "name": "Cif",
         "names": [
             "Cif"
         ],
@@ -1008,6 +1125,7 @@
         ]
     },
     {
+        "name": "Clear Blue",
         "names": [
             "Clear Blue"
         ],
@@ -1022,6 +1140,7 @@
         ]
     },
     {
+        "name": "Clinique",
         "names": [
             "Clinique"
         ],
@@ -1036,6 +1155,7 @@
         ]
     },
     {
+        "name": "Coca-Cola",
         "names": [
             "Coca-Cola"
         ],
@@ -1050,6 +1170,7 @@
         ]
     },
     {
+        "name": "Coffee Mate",
         "names": [
             "Coffee Mate"
         ],
@@ -1064,6 +1185,7 @@
         ]
     },
     {
+        "name": "Comfort",
         "names": [
             "Comfort"
         ],
@@ -1078,6 +1200,7 @@
         ]
     },
     {
+        "name": "Conservative party",
         "names": [
             "Conservative party"
         ],
@@ -1092,6 +1215,7 @@
         ]
     },
     {
+        "name": "Cornetto Ice Creams",
         "names": [
             "Cornetto Ice Creams"
         ],
@@ -1106,6 +1230,7 @@
         ]
     },
     {
+        "name": "Costa Coffee",
         "names": [
             "Costa Coffee"
         ],
@@ -1120,6 +1245,22 @@
         ]
     },
     {
+        "name": "Coty",
+        "names": [
+            "Coty"
+        ],
+        "subtitle": "Beauty conglomerate owned by JAB Holdings which is owned by the Reimann family.",
+        "description": "The owners of Coty, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2020/10/Coty-Logo-2016.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation"
+            }
+        ]
+    },
+    {
+        "name": "Cow & Gate",
         "names": [
             "Cow & Gate"
         ],
@@ -1134,6 +1275,7 @@
         ]
     },
     {
+        "name": "Crest Toothpaste",
         "names": [
             "Crest Toothpaste"
         ],
@@ -1148,6 +1290,7 @@
         ]
     },
     {
+        "name": "Curver",
         "names": [
             "Curver"
         ],
@@ -1162,20 +1305,7 @@
         ]
     },
     {
-        "names": [
-            "DKNY"
-        ],
-        "subtitle": "A fashion brand owned by Bernard Arnaults company, LVMH",
-        "description": "The owner of DKNY's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
-        "imageUrl": "https://cdn.freebiesupply.com/logos/thumbs/2x/dkny-2-logo.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
-            }
-        ]
-    },
-    {
+        "name": "Daim",
         "names": [
             "Daim"
         ],
@@ -1190,6 +1320,7 @@
         ]
     },
     {
+        "name": "Dairy Milk",
         "names": [
             "Dairy Milk"
         ],
@@ -1204,6 +1335,7 @@
         ]
     },
     {
+        "name": "Danone",
         "names": [
             "Danone"
         ],
@@ -1218,6 +1350,7 @@
         ]
     },
     {
+        "name": "Dasani Water",
         "names": [
             "Dasani Water"
         ],
@@ -1232,6 +1365,7 @@
         ]
     },
     {
+        "name": "Delilah",
         "names": [
             "Delilah"
         ],
@@ -1246,6 +1380,7 @@
         ]
     },
     {
+        "name": "Dell",
         "names": [
             "Dell"
         ],
@@ -1260,6 +1395,7 @@
         ]
     },
     {
+        "name": "Desert Diamond",
         "names": [
             "Desert Diamond"
         ],
@@ -1274,6 +1410,7 @@
         ]
     },
     {
+        "name": "Diesel Frangrances",
         "names": [
             "Diesel Frangrances"
         ],
@@ -1288,6 +1425,7 @@
         ]
     },
     {
+        "name": "Diet Coke",
         "names": [
             "Diet Coke"
         ],
@@ -1302,6 +1440,7 @@
         ]
     },
     {
+        "name": "Dine",
         "names": [
             "Dine"
         ],
@@ -1316,6 +1455,7 @@
         ]
     },
     {
+        "name": "Dior / Christian Dior",
         "names": [
             "Dior / Christian Dior"
         ],
@@ -1330,6 +1470,7 @@
         ]
     },
     {
+        "name": "Disney",
         "names": [
             "Disney"
         ],
@@ -1344,6 +1485,22 @@
         ]
     },
     {
+        "name": "DKNY",
+        "names": [
+            "DKNY"
+        ],
+        "subtitle": "A fashion brand owned by Bernard Arnaults company, LVMH",
+        "description": "The owner of DKNY's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "imageUrl": "https://cdn.freebiesupply.com/logos/thumbs/2x/dkny-2-logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
+            }
+        ]
+    },
+    {
+        "name": "Dogadan",
         "names": [
             "Dogadan"
         ],
@@ -1358,6 +1515,7 @@
         ]
     },
     {
+        "name": "Dolce Gusto",
         "names": [
             "Dolce Gusto"
         ],
@@ -1372,6 +1530,7 @@
         ]
     },
     {
+        "name": "Dolmio",
         "names": [
             "Dolmio"
         ],
@@ -1386,6 +1545,7 @@
         ]
     },
     {
+        "name": "Domestos",
         "names": [
             "Domestos"
         ],
@@ -1400,6 +1560,7 @@
         ]
     },
     {
+        "name": "Doritos",
         "names": [
             "Doritos"
         ],
@@ -1414,6 +1575,7 @@
         ]
     },
     {
+        "name": "Dove",
         "names": [
             "Dove"
         ],
@@ -1428,6 +1590,7 @@
         ]
     },
     {
+        "name": "Dr Pepper",
         "names": [
             "Dr Pepper"
         ],
@@ -1442,6 +1605,7 @@
         ]
     },
     {
+        "name": "Eden Springs",
         "names": [
             "Eden Springs"
         ],
@@ -1456,6 +1620,7 @@
         ]
     },
     {
+        "name": "Elbit Systems",
         "names": [
             "Elbit Systems"
         ],
@@ -1470,6 +1635,7 @@
         ]
     },
     {
+        "name": "Enjoy Life",
         "names": [
             "Enjoy Life"
         ],
@@ -1484,6 +1650,22 @@
         ]
     },
     {
+        "name": "Espresso House",
+        "names": [
+            "Espresso House"
+        ],
+        "subtitle": "Coffee chain owned by JAB Holdings which is owned by the Reimann family.",
+        "description": "The owners of Espresso House, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/62ab2d73fb56ea653d2d8ca1/5da2adb4-ad25-4789-be03-dcf952ed58e5/Espresso+House+Compressed.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation"
+            }
+        ]
+    },
+    {
+        "name": "Estee Lauder",
         "names": [
             "Estee Lauder"
         ],
@@ -1498,6 +1680,22 @@
         ]
     },
     {
+        "name": "eToro",
+        "names": [
+            "eToro"
+        ],
+        "subtitle": "eToro is a social trading and multi-asset investment company based in Israel.",
+        "description": "Yoni Assia is the CEO of eToro and is a staunch zionist who supports the IDF.",
+        "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/93/5d/87935d18-1213-3914-55fc-bf9d404e5ac9/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://twitter.com/yoniassia"
+            }
+        ]
+    },
+    {
+        "name": "Evian",
         "names": [
             "Evian"
         ],
@@ -1512,6 +1710,22 @@
         ]
     },
     {
+        "name": "Express VPN",
+        "names": [
+            "Express VPN"
+        ],
+        "subtitle": "Express VPN is an israel tech company specialising in VPN services.",
+        "description": "Express VPN is an israeli company owned by zionists who support the occupation of Palestine.",
+        "imageUrl": "https://media.wired.co.uk/photos/606d9e95fd9831b13e447120/4:3/w_2664,h_1998,c_limit/wired-express-vpn.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3918443,00.html"
+            }
+        ]
+    },
+    {
+        "name": "Fairlife",
         "names": [
             "Fairlife"
         ],
@@ -1526,6 +1740,7 @@
         ]
     },
     {
+        "name": "Fairy",
         "names": [
             "Fairy"
         ],
@@ -1540,6 +1755,7 @@
         ]
     },
     {
+        "name": "Fanta",
         "names": [
             "Fanta"
         ],
@@ -1554,6 +1770,7 @@
         ]
     },
     {
+        "name": "Febreze",
         "names": [
             "Febreze"
         ],
@@ -1568,6 +1785,7 @@
         ]
     },
     {
+        "name": "Felix",
         "names": [
             "Felix"
         ],
@@ -1582,6 +1800,7 @@
         ]
     },
     {
+        "name": "Fendi",
         "names": [
             "Fendi"
         ],
@@ -1596,6 +1815,7 @@
         ]
     },
     {
+        "name": "Fenty Beauty by Rihanna",
         "names": [
             "Fenty Beauty by Rihanna"
         ],
@@ -1610,6 +1830,7 @@
         ]
     },
     {
+        "name": "Fiverr",
         "names": [
             "Fiverr"
         ],
@@ -1624,6 +1845,7 @@
         ]
     },
     {
+        "name": "Flash",
         "names": [
             "Flash"
         ],
@@ -1638,6 +1860,7 @@
         ]
     },
     {
+        "name": "Fuzetea",
         "names": [
             "Fuzetea"
         ],
@@ -1652,6 +1875,7 @@
         ]
     },
     {
+        "name": "G4S",
         "names": [
             "G4S"
         ],
@@ -1666,6 +1890,7 @@
         ]
     },
     {
+        "name": "Game Fuel",
         "names": [
             "Game Fuel"
         ],
@@ -1680,6 +1905,7 @@
         ]
     },
     {
+        "name": "Garnier",
         "names": [
             "Garnier"
         ],
@@ -1694,6 +1920,7 @@
         ]
     },
     {
+        "name": "Gatorade",
         "names": [
             "Gatorade"
         ],
@@ -1708,6 +1935,7 @@
         ]
     },
     {
+        "name": "Gillette",
         "names": [
             "Gillette"
         ],
@@ -1722,6 +1950,7 @@
         ]
     },
     {
+        "name": "Giorgio Armani Beauty",
         "names": [
             "Giorgio Armani Beauty"
         ],
@@ -1736,6 +1965,7 @@
         ]
     },
     {
+        "name": "Givenchy",
         "names": [
             "Givenchy"
         ],
@@ -1750,6 +1980,7 @@
         ]
     },
     {
+        "name": "Glaceau Smartwater",
         "names": [
             "Glaceau Smartwater"
         ],
@@ -1764,6 +1995,7 @@
         ]
     },
     {
+        "name": "Google",
         "names": [
             "Google"
         ],
@@ -1773,11 +2005,12 @@
         "supportUrls": [
             {
                 "name": "Proof",
-                "url": "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contra"
+                "url": "https://www.theguardian.com/commentisfree/2021/oct/12/google-amazon-workers-condemn-project-nimbus-israeli-military-contract"
             }
         ]
     },
     {
+        "name": "Grenade",
         "names": [
             "Grenade"
         ],
@@ -1792,34 +2025,7 @@
         ]
     },
     {
-        "names": [
-            "HP"
-        ],
-        "subtitle": "IT company who develop hardware and software for consumers, enterprise and government.",
-        "description": "Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/2048px-HP_logo_2012.svg.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://en.wikipedia.org/wiki/Hewlett-Packard_Israel"
-            }
-        ]
-    },
-    {
-        "names": [
-            "HSBC"
-        ],
-        "subtitle": "British multinational universal bank and financial service provider, headquartered in London.",
-        "description": "HSBC invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
-        "imageUrl": "https://www.hsbc.co.uk/etc.clientlibs/dpws/clientlibs-public/clientlib-site/resources/social/logo/Square-1200x1200px.jpg",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.ethicalconsumer.org/money-finance/israel-deadly-investments"
-            }
-        ]
-    },
-    {
+        "name": "Hadiklaim",
         "names": [
             "Hadiklaim"
         ],
@@ -1834,6 +2040,7 @@
         ]
     },
     {
+        "name": "Halls",
         "names": [
             "Halls"
         ],
@@ -1848,6 +2055,7 @@
         ]
     },
     {
+        "name": "Head and Shoulders",
         "names": [
             "Head and Shoulders"
         ],
@@ -1862,6 +2070,7 @@
         ]
     },
     {
+        "name": "Hellman's",
         "names": [
             "Hellman's"
         ],
@@ -1876,6 +2085,7 @@
         ]
     },
     {
+        "name": "Herbal Essences",
         "names": [
             "Herbal Essences"
         ],
@@ -1890,6 +2100,7 @@
         ]
     },
     {
+        "name": "Hotel Chocolat",
         "names": [
             "Hotel Chocolat"
         ],
@@ -1904,6 +2115,37 @@
         ]
     },
     {
+        "name": "HP",
+        "names": [
+            "HP"
+        ],
+        "subtitle": "IT company who develop hardware and software for consumers, enterprise and government.",
+        "description": "Hewlett Packard runs the biometric ID system that Israel uses to restrict Palestinian movement as well as other systems for the IDF.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/2048px-HP_logo_2012.svg.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://en.wikipedia.org/wiki/Hewlett-Packard_Israel"
+            }
+        ]
+    },
+    {
+        "name": "HSBC",
+        "names": [
+            "HSBC"
+        ],
+        "subtitle": "British multinational universal bank and financial service provider, headquartered in London.",
+        "description": "HSBC invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
+        "imageUrl": "https://www.hsbc.co.uk/etc.clientlibs/dpws/clientlibs-public/clientlib-site/resources/social/logo/Square-1200x1200px.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.ethicalconsumer.org/money-finance/israel-deadly-investments"
+            }
+        ]
+    },
+    {
+        "name": "Hubba Bubba",
         "names": [
             "Hubba Bubba"
         ],
@@ -1918,6 +2160,7 @@
         ]
     },
     {
+        "name": "Hublot",
         "names": [
             "Hublot"
         ],
@@ -1932,6 +2175,7 @@
         ]
     },
     {
+        "name": "Hyundai",
         "names": [
             "Hyundai"
         ],
@@ -1946,6 +2190,7 @@
         ]
     },
     {
+        "name": "IAMS",
         "names": [
             "IAMS"
         ],
@@ -1960,20 +2205,7 @@
         ]
     },
     {
-        "names": [
-            "IT Cosmetics"
-        ],
-        "subtitle": "Beauty brand, owned by L'Oreal.",
-        "description": "IT Cosmetics is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
-        "imageUrl": "https://crueltyfree.peta.org/wp-content/uploads/it-cosmetics-logo.jpg",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
-            }
-        ]
-    },
-    {
+        "name": "Innocent Smoothies",
         "names": [
             "Innocent Smoothies"
         ],
@@ -1988,6 +2220,7 @@
         ]
     },
     {
+        "name": "Intel",
         "names": [
             "Intel"
         ],
@@ -2002,6 +2235,37 @@
         ]
     },
     {
+        "name": "IT Cosmetics",
+        "names": [
+            "IT Cosmetics"
+        ],
+        "subtitle": "Beauty brand, owned by L'Oreal.",
+        "description": "IT Cosmetics is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "imageUrl": "https://crueltyfree.peta.org/wp-content/uploads/it-cosmetics-logo.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+            }
+        ]
+    },
+    {
+        "name": "Jaguar",
+        "names": [
+            "Jaguar"
+        ],
+        "subtitle": "Car brand owned by Jaguar Land Rover.",
+        "description": "Jaguar Land Rover partners with TCS to open Open Innovation Programme in Israel",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2019/12/Jaguar-Logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://auto.economictimes.indiatimes.com/news/industry/jaguar-land-rover-partners-with-tcs-to-launch-open-innovation-programme-in-israel/100437173"
+            }
+        ]
+    },
+    {
+        "name": "Jo Malone",
         "names": [
             "Jo Malone"
         ],
@@ -2016,6 +2280,7 @@
         ]
     },
     {
+        "name": "Jordan River",
         "names": [
             "Jordan River"
         ],
@@ -2030,6 +2295,7 @@
         ]
     },
     {
+        "name": "Juicy Fruit",
         "names": [
             "Juicy Fruit"
         ],
@@ -2044,20 +2310,7 @@
         ]
     },
     {
-        "names": [
-            "KFC"
-        ],
-        "subtitle": "International fast food chain",
-        "description": "Parent company Yum Brands is an investor in Israeli start ups",
-        "imageUrl": "https://banner2.cleanpng.com/20180601/xyv/kisspng-colonel-sanders-kfc-dallas-crispy-fried-chicken-kfc-5b112003073f25.1634110215278489630297.jpg",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html"
-            }
-        ]
-    },
-    {
+        "name": "Kayak",
         "names": [
             "Kayak"
         ],
@@ -2072,6 +2325,7 @@
         ]
     },
     {
+        "name": "Kenzo",
         "names": [
             "Kenzo"
         ],
@@ -2086,6 +2340,7 @@
         ]
     },
     {
+        "name": "Keratase",
         "names": [
             "Keratase"
         ],
@@ -2100,6 +2355,7 @@
         ]
     },
     {
+        "name": "Keter",
         "names": [
             "Keter"
         ],
@@ -2114,6 +2370,22 @@
         ]
     },
     {
+        "name": "KFC",
+        "names": [
+            "KFC"
+        ],
+        "subtitle": "International fast food chain",
+        "description": "Parent company Yum Brands is an investor in Israeli start ups",
+        "imageUrl": "https://banner2.cleanpng.com/20180601/xyv/kisspng-colonel-sanders-kfc-dallas-crispy-fried-chicken-kfc-5b112003073f25.1634110215278489630297.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html"
+            }
+        ]
+    },
+    {
+        "name": "Kiehl's",
         "names": [
             "Kiehl's"
         ],
@@ -2128,6 +2400,7 @@
         ]
     },
     {
+        "name": "Kilian",
         "names": [
             "Kilian"
         ],
@@ -2142,6 +2415,7 @@
         ]
     },
     {
+        "name": "King Solomon",
         "names": [
             "King Solomon"
         ],
@@ -2156,6 +2430,7 @@
         ]
     },
     {
+        "name": "KitKat",
         "names": [
             "KitKat"
         ],
@@ -2170,6 +2445,7 @@
         ]
     },
     {
+        "name": "Knorr",
         "names": [
             "Knorr"
         ],
@@ -2184,6 +2460,22 @@
         ]
     },
     {
+        "name": "Krispy Kreme",
+        "names": [
+            "Krispy Kreme"
+        ],
+        "subtitle": "Donut brand owned by JAB Holdings which is owned by the Reimann family.",
+        "description": "The owners of Krispy Kreme, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2018/02/Krispy-Kreme-Logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation"
+            }
+        ]
+    },
+    {
+        "name": "Kylie Cosmetics",
         "names": [
             "Kylie Cosmetics"
         ],
@@ -2198,20 +2490,7 @@
         ]
     },
     {
-        "names": [
-            "LVMH"
-        ],
-        "subtitle": "Louis Vuitton Moet Hennessey, a french multinational conglomerate specialising in luxury goods",
-        "description": "LVMH owner Bernard Arnault invests in Israeli companies",
-        "imageUrl": "https://r.lvmh-static.com/uploads/2010/01/lvmh_logotype_simple_n-1.jpg",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
-            }
-        ]
-    },
-    {
+        "name": "La Mer",
         "names": [
             "La Mer"
         ],
@@ -2226,6 +2505,7 @@
         ]
     },
     {
+        "name": "La Roche-Posay",
         "names": [
             "La Roche-Posay"
         ],
@@ -2240,6 +2520,7 @@
         ]
     },
     {
+        "name": "Lab Series",
         "names": [
             "Lab Series"
         ],
@@ -2254,6 +2535,7 @@
         ]
     },
     {
+        "name": "Labour party",
         "names": [
             "Labour party"
         ],
@@ -2268,6 +2550,7 @@
         ]
     },
     {
+        "name": "Lancome",
         "names": [
             "Lancome"
         ],
@@ -2282,6 +2565,22 @@
         ]
     },
     {
+        "name": "Land Rover (Range Rover)",
+        "names": [
+            "Land Rover (Range Rover)"
+        ],
+        "subtitle": "Car brand owned by Jaguar Land Rover.",
+        "description": "Jaguar Land Rover partners with TCS to open Open Innovation Programme in Israel",
+        "imageUrl": "https://i.pinimg.com/originals/27/2f/cd/272fcd3d1ac73529e35c8d9d420005fc.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://auto.economictimes.indiatimes.com/news/industry/jaguar-land-rover-partners-with-tcs-to-launch-open-innovation-programme-in-israel/100437173"
+            }
+        ]
+    },
+    {
+        "name": "Lavazza",
         "names": [
             "Lavazza"
         ],
@@ -2296,6 +2595,7 @@
         ]
     },
     {
+        "name": "Lay's",
         "names": [
             "Lay's"
         ],
@@ -2310,6 +2610,7 @@
         ]
     },
     {
+        "name": "Legal & General",
         "names": [
             "Legal & General"
         ],
@@ -2324,6 +2625,7 @@
         ]
     },
     {
+        "name": "Lenor",
         "names": [
             "Lenor"
         ],
@@ -2338,6 +2640,22 @@
         ]
     },
     {
+        "name": "Lidl",
+        "names": [
+            "Lidl"
+        ],
+        "subtitle": "A supermarket chain owned by Dieter Schwarz's Schwarz Group in Germany ",
+        "description": "The owner of Lidl is a zionist and a huge investor in israeli tech companies.",
+        "imageUrl": "https://download.logo.wine/logo/Lidl/Lidl-Logo.wine.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://xmcyber.com/press-release/schwarz-group-acquires-israeli-hybrid-cloud-cybersecurity-innovator-xm-cyber/"
+            }
+        ]
+    },
+    {
+        "name": "Lion",
         "names": [
             "Lion"
         ],
@@ -2352,6 +2670,7 @@
         ]
     },
     {
+        "name": "Lipton",
         "names": [
             "Lipton"
         ],
@@ -2366,6 +2685,7 @@
         ]
     },
     {
+        "name": "Lipton Iced Tea",
         "names": [
             "Lipton Iced Tea"
         ],
@@ -2380,6 +2700,7 @@
         ]
     },
     {
+        "name": "Lloyds Bank",
         "names": [
             "Lloyds Bank"
         ],
@@ -2394,6 +2715,7 @@
         ]
     },
     {
+        "name": "Lockheed Martin",
         "names": [
             "Lockheed Martin"
         ],
@@ -2408,6 +2730,7 @@
         ]
     },
     {
+        "name": "Loewe",
         "names": [
             "Loewe"
         ],
@@ -2422,6 +2745,7 @@
         ]
     },
     {
+        "name": "Loreal / L'oreal",
         "names": [
             "Loreal / L'oreal"
         ],
@@ -2436,6 +2760,7 @@
         ]
     },
     {
+        "name": "Louis Vuitton",
         "names": [
             "Louis Vuitton"
         ],
@@ -2450,6 +2775,7 @@
         ]
     },
     {
+        "name": "Lux",
         "names": [
             "Lux"
         ],
@@ -2464,6 +2790,22 @@
         ]
     },
     {
+        "name": "LVMH",
+        "names": [
+            "LVMH"
+        ],
+        "subtitle": "Louis Vuitton Moet Hennessey, a french multinational conglomerate specialising in luxury goods",
+        "description": "LVMH owner Bernard Arnault invests in Israeli companies",
+        "imageUrl": "https://r.lvmh-static.com/uploads/2010/01/lvmh_logotype_simple_n-1.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
+            }
+        ]
+    },
+    {
+        "name": "Lynx",
         "names": [
             "Lynx"
         ],
@@ -2478,6 +2820,7 @@
         ]
     },
     {
+        "name": "M&M's",
         "names": [
             "M&M's"
         ],
@@ -2492,6 +2835,7 @@
         ]
     },
     {
+        "name": "MAC Cosmetics",
         "names": [
             "MAC Cosmetics"
         ],
@@ -2506,20 +2850,7 @@
         ]
     },
     {
-        "names": [
-            "MBDA"
-        ],
-        "subtitle": "MBDA is a weapons manufacturer with operations in the UK.",
-        "description": "Israel Aerospace Industries (IAI) is working with the German arm of MBDA and signed a cooperation agreement for the production, integration, sales, and marketing of IAI's loitering ammunition systems in Germany",
-        "imageUrl": "https://pbs.twimg.com/profile_images/1572161199751454721/P5ubky0o_400x400.jpg",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.israeldefense.co.il/en/node/58894"
-            }
-        ]
-    },
-    {
+        "name": "Magen David Adom",
         "names": [
             "Magen David Adom"
         ],
@@ -2534,6 +2865,7 @@
         ]
     },
     {
+        "name": "Maggi",
         "names": [
             "Maggi"
         ],
@@ -2548,6 +2880,7 @@
         ]
     },
     {
+        "name": "Magnum Ice Creams",
         "names": [
             "Magnum Ice Creams"
         ],
@@ -2562,6 +2895,7 @@
         ]
     },
     {
+        "name": "Maison Francis Kurkdjian",
         "names": [
             "Maison Francis Kurkdjian"
         ],
@@ -2576,6 +2910,7 @@
         ]
     },
     {
+        "name": "Maison Margiela Fragrances",
         "names": [
             "Maison Margiela Fragrances"
         ],
@@ -2590,6 +2925,7 @@
         ]
     },
     {
+        "name": "Malteasers",
         "names": [
             "Malteasers"
         ],
@@ -2604,6 +2940,7 @@
         ]
     },
     {
+        "name": "Marc Jacobs",
         "names": [
             "Marc Jacobs"
         ],
@@ -2618,6 +2955,7 @@
         ]
     },
     {
+        "name": "Marks and Spencer / M&S",
         "names": [
             "Marks and Spencer / M&S"
         ],
@@ -2632,6 +2970,7 @@
         ]
     },
     {
+        "name": "Mars",
         "names": [
             "Mars"
         ],
@@ -2646,6 +2985,7 @@
         ]
     },
     {
+        "name": "Maybelline",
         "names": [
             "Maybelline"
         ],
@@ -2660,6 +3000,22 @@
         ]
     },
     {
+        "name": "MBDA",
+        "names": [
+            "MBDA"
+        ],
+        "subtitle": "MBDA is a weapons manufacturer with operations in the UK.",
+        "description": "Israel Aerospace Industries (IAI) is working with the German arm of MBDA and signed a cooperation agreement for the production, integration, sales, and marketing of IAI's loitering ammunition systems in Germany",
+        "imageUrl": "https://pbs.twimg.com/profile_images/1572161199751454721/P5ubky0o_400x400.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.israeldefense.co.il/en/node/58894"
+            }
+        ]
+    },
+    {
+        "name": "McDonalds",
         "names": [
             "McDonalds"
         ],
@@ -2674,6 +3030,7 @@
         ]
     },
     {
+        "name": "Mercedes Benz",
         "names": [
             "Mercedes Benz"
         ],
@@ -2688,6 +3045,22 @@
         ]
     },
     {
+        "name": "Microsoft",
+        "names": [
+            "Microsoft"
+        ],
+        "subtitle": "Software and technology company.",
+        "description": "Microsoft is opening a data center in israel and invests heavily in their economy.",
+        "imageUrl": "https://i.pinimg.com/originals/27/2f/cd/272fcd3d1ac73529e35c8d9d420005fc.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://news.microsoft.com/europe/features/microsoft-to-launch-new-cloud-datacenter-region-in-israel/"
+            }
+        ]
+    },
+    {
+        "name": "Mikado",
         "names": [
             "Mikado"
         ],
@@ -2702,6 +3075,7 @@
         ]
     },
     {
+        "name": "Milka",
         "names": [
             "Milka"
         ],
@@ -2716,6 +3090,7 @@
         ]
     },
     {
+        "name": "Milky Way",
         "names": [
             "Milky Way"
         ],
@@ -2730,6 +3105,7 @@
         ]
     },
     {
+        "name": "Milkybar",
         "names": [
             "Milkybar"
         ],
@@ -2744,6 +3120,7 @@
         ]
     },
     {
+        "name": "Minute Maid",
         "names": [
             "Minute Maid"
         ],
@@ -2758,6 +3135,7 @@
         ]
     },
     {
+        "name": "Monday.com",
         "names": [
             "Monday.com"
         ],
@@ -2772,6 +3150,7 @@
         ]
     },
     {
+        "name": "Mondelez",
         "names": [
             "Mondelez"
         ],
@@ -2786,6 +3165,7 @@
         ]
     },
     {
+        "name": "Monster Energy",
         "names": [
             "Monster Energy"
         ],
@@ -2800,6 +3180,7 @@
         ]
     },
     {
+        "name": "Moovit",
         "names": [
             "Moovit"
         ],
@@ -2814,6 +3195,7 @@
         ]
     },
     {
+        "name": "MoroccanOil",
         "names": [
             "MoroccanOil"
         ],
@@ -2828,6 +3210,7 @@
         ]
     },
     {
+        "name": "Motorola",
         "names": [
             "Motorola"
         ],
@@ -2842,6 +3225,7 @@
         ]
     },
     {
+        "name": "Mountain Dew",
         "names": [
             "Mountain Dew"
         ],
@@ -2856,6 +3240,7 @@
         ]
     },
     {
+        "name": "Movenpick",
         "names": [
             "Movenpick"
         ],
@@ -2870,6 +3255,7 @@
         ]
     },
     {
+        "name": "Mugler Beauty",
         "names": [
             "Mugler Beauty"
         ],
@@ -2884,34 +3270,7 @@
         ]
     },
     {
-        "names": [
-            "NIOD"
-        ],
-        "subtitle": "Cosmetics company, owned by Estee Lauder.",
-        "description": "NIOD is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
-        "imageUrl": "https://www.cosmetify.com/images/brands/niod.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
-            }
-        ]
-    },
-    {
-        "names": [
-            "NYX Professional Makeup"
-        ],
-        "subtitle": "Professional makeup brand, owned by L'Oreal.",
-        "description": "NYX Professional is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
-        "imageUrl": "https://lens-storage.storage.googleapis.com/png/74504afc12b6483d988c46d13fa2f6ca",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
-            }
-        ]
-    },
-    {
+        "name": "Naked Juice",
         "names": [
             "Naked Juice"
         ],
@@ -2926,6 +3285,7 @@
         ]
     },
     {
+        "name": "Nescafe",
         "names": [
             "Nescafe"
         ],
@@ -2940,6 +3300,7 @@
         ]
     },
     {
+        "name": "Nespresso",
         "names": [
             "Nespresso"
         ],
@@ -2954,6 +3315,7 @@
         ]
     },
     {
+        "name": "Nesquik",
         "names": [
             "Nesquik"
         ],
@@ -2968,6 +3330,7 @@
         ]
     },
     {
+        "name": "Nestle",
         "names": [
             "Nestle"
         ],
@@ -2982,6 +3345,22 @@
         ]
     },
     {
+        "name": "NIOD",
+        "names": [
+            "NIOD"
+        ],
+        "subtitle": "Cosmetics company, owned by Estee Lauder.",
+        "description": "NIOD is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
+        "imageUrl": "https://www.cosmetify.com/images/brands/niod.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.jnf.org/menu-3/speakers-bureau/bio-page?id=830973c9-caae-67a8-a4cf-ff000038378d"
+            }
+        ]
+    },
+    {
+        "name": "Nvidia",
         "names": [
             "Nvidia"
         ],
@@ -2996,6 +3375,22 @@
         ]
     },
     {
+        "name": "NYX Professional Makeup",
+        "names": [
+            "NYX Professional Makeup"
+        ],
+        "subtitle": "Professional makeup brand, owned by L'Oreal.",
+        "description": "NYX Professional is a brand owned by L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "imageUrl": "https://lens-storage.storage.googleapis.com/png/74504afc12b6483d988c46d13fa2f6ca",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+            }
+        ]
+    },
+    {
+        "name": "Oasis",
         "names": [
             "Oasis"
         ],
@@ -3010,6 +3405,7 @@
         ]
     },
     {
+        "name": "Olay",
         "names": [
             "Olay"
         ],
@@ -3024,6 +3420,7 @@
         ]
     },
     {
+        "name": "Old Spice",
         "names": [
             "Old Spice"
         ],
@@ -3038,6 +3435,22 @@
         ]
     },
     {
+        "name": "OpenAI",
+        "names": [
+            "OpenAI"
+        ],
+        "subtitle": "OpenAI is an AI company, famous for chatGPT, headed by zionist, Sam Altman. After being fired in November 2023, he was reinstated as the CEO of the company days later.",
+        "description": "Sam Altman is a zionist. Many responses by the chat bot have proven to be pro zionist biased.",
+        "imageUrl": "https://www.webfx.com/wp-content/uploads/2023/07/what-is-openai.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.timesofisrael.com/openais-sam-altman-says-israel-will-have-huge-role-to-play-in-ai-revolution/"
+            }
+        ]
+    },
+    {
+        "name": "Opentable",
         "names": [
             "Opentable"
         ],
@@ -3052,6 +3465,7 @@
         ]
     },
     {
+        "name": "Oracle",
         "names": [
             "Oracle"
         ],
@@ -3066,6 +3480,7 @@
         ]
     },
     {
+        "name": "Oral B",
         "names": [
             "Oral B"
         ],
@@ -3080,6 +3495,22 @@
         ]
     },
     {
+        "name": "Orangina",
+        "names": [
+            "Orangina"
+        ],
+        "subtitle": "Juice brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Orangina, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://static.wikia.nocookie.net/logopedia/images/6/62/Orangina_logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "name": "Oreo",
         "names": [
             "Oreo"
         ],
@@ -3094,6 +3525,7 @@
         ]
     },
     {
+        "name": "Origins",
         "names": [
             "Origins"
         ],
@@ -3108,6 +3540,7 @@
         ]
     },
     {
+        "name": "Outbrain",
         "names": [
             "Outbrain"
         ],
@@ -3122,6 +3555,7 @@
         ]
     },
     {
+        "name": "Pampers",
         "names": [
             "Pampers"
         ],
@@ -3136,6 +3570,7 @@
         ]
     },
     {
+        "name": "Pantene",
         "names": [
             "Pantene"
         ],
@@ -3150,6 +3585,22 @@
         ]
     },
     {
+        "name": "Payoneer",
+        "names": [
+            "Payoneer"
+        ],
+        "subtitle": "Payoneer is an israel tech company specialising in facilitating online payments.",
+        "description": "Payoneer is an israeli company which operates on stolen Palestinian land.",
+        "imageUrl": "https://static.vecteezy.com/system/resources/previews/027/127/484/original/payoneer-logo-payoneer-icon-transparent-free-png.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://en.globes.co.il/en/article-payoneer-raises-180m-1001155495"
+            }
+        ]
+    },
+    {
+        "name": "Pedigree",
         "names": [
             "Pedigree"
         ],
@@ -3164,6 +3615,22 @@
         ]
     },
     {
+        "name": "Peet's Coffee",
+        "names": [
+            "Peet's Coffee"
+        ],
+        "subtitle": "Coffee chain owned by JAB Holdings which is owned by the Reimann family.",
+        "description": "The owners of Peet's Coffee, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
+        "imageUrl": "https://dg6qn11ynnp6a.cloudfront.net/wp-content/uploads/2019/10/04114953/18274759_10154462185956190_6773480231895222987_n.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation"
+            }
+        ]
+    },
+    {
+        "name": "Pepsi",
         "names": [
             "Pepsi"
         ],
@@ -3178,6 +3645,7 @@
         ]
     },
     {
+        "name": "Perrier",
         "names": [
             "Perrier"
         ],
@@ -3192,6 +3660,7 @@
         ]
     },
     {
+        "name": "Persil",
         "names": [
             "Persil"
         ],
@@ -3206,6 +3675,7 @@
         ]
     },
     {
+        "name": "Philadelphia",
         "names": [
             "Philadelphia"
         ],
@@ -3220,6 +3690,7 @@
         ]
     },
     {
+        "name": "Pizza Hut",
         "names": [
             "Pizza Hut"
         ],
@@ -3234,6 +3705,7 @@
         ]
     },
     {
+        "name": "Popeyes",
         "names": [
             "Popeyes"
         ],
@@ -3248,6 +3720,7 @@
         ]
     },
     {
+        "name": "Power Action",
         "names": [
             "Power Action"
         ],
@@ -3262,6 +3735,7 @@
         ]
     },
     {
+        "name": "Powerade",
         "names": [
             "Powerade"
         ],
@@ -3276,6 +3750,7 @@
         ]
     },
     {
+        "name": "Prada Beauty",
         "names": [
             "Prada Beauty"
         ],
@@ -3290,6 +3765,7 @@
         ]
     },
     {
+        "name": "Pret-a-manger",
         "names": [
             "Pret-a-manger"
         ],
@@ -3304,6 +3780,7 @@
         ]
     },
     {
+        "name": "Priceline",
         "names": [
             "Priceline"
         ],
@@ -3318,6 +3795,7 @@
         ]
     },
     {
+        "name": "Procter & Gamble",
         "names": [
             "Procter & Gamble"
         ],
@@ -3332,6 +3810,7 @@
         ]
     },
     {
+        "name": "Puma",
         "names": [
             "Puma"
         ],
@@ -3346,6 +3825,7 @@
         ]
     },
     {
+        "name": "Pure Life",
         "names": [
             "Pure Life"
         ],
@@ -3360,6 +3840,7 @@
         ]
     },
     {
+        "name": "Purina",
         "names": [
             "Purina"
         ],
@@ -3374,6 +3855,7 @@
         ]
     },
     {
+        "name": "Quaker Oats",
         "names": [
             "Quaker Oats"
         ],
@@ -3388,6 +3870,7 @@
         ]
     },
     {
+        "name": "Quality Street",
         "names": [
             "Quality Street"
         ],
@@ -3402,20 +3885,7 @@
         ]
     },
     {
-        "names": [
-            "RBS"
-        ],
-        "subtitle": "Major retail and commercial bank based in Scotland.",
-        "description": "RBS invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
-        "imageUrl": "https://logowik.com/content/uploads/images/rbs-group1393.jpg",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.ethicalconsumer.org/money-finance/israel-deadly-investments"
-            }
-        ]
-    },
-    {
+        "name": "Ralph Lauren Frangrances",
         "names": [
             "Ralph Lauren Frangrances"
         ],
@@ -3430,6 +3900,22 @@
         ]
     },
     {
+        "name": "Rani",
+        "names": [
+            "Rani"
+        ],
+        "subtitle": "Drinks brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Rani, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://aujan.com/wp-content/uploads/2015/03/rani1.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "name": "Rapunzel",
         "names": [
             "Rapunzel"
         ],
@@ -3444,6 +3930,22 @@
         ]
     },
     {
+        "name": "Rapyd",
+        "names": [
+            "Rapyd"
+        ],
+        "subtitle": "Rapyd is an israel tech company specialising in facilitating online payments.",
+        "description": "Rapyd is an israeli company which operates on stolen Palestinian land and its zionist owner supports the occupation.",
+        "imageUrl": "https://asset.brandfetch.io/idof9qvLRk/idxKqLpmSt.jpeg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.linkedin.com/posts/arik-shtilman-b0265_we-will-win-rapyd-supports-israel-activity-7117232062058627073-nBLf/?utm_source=share&utm_medium=member_desktop"
+            }
+        ]
+    },
+    {
+        "name": "Rare Beauty by Selena Gomez",
         "names": [
             "Rare Beauty by Selena Gomez"
         ],
@@ -3458,6 +3960,7 @@
         ]
     },
     {
+        "name": "Raytheon",
         "names": [
             "Raytheon"
         ],
@@ -3472,6 +3975,22 @@
         ]
     },
     {
+        "name": "RBS",
+        "names": [
+            "RBS"
+        ],
+        "subtitle": "Major retail and commercial bank based in Scotland.",
+        "description": "RBS invests in companies selling arms and military equipment to Israel that have been used in the oppression of Palestinians",
+        "imageUrl": "https://logowik.com/content/uploads/images/rbs-group1393.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.ethicalconsumer.org/money-finance/israel-deadly-investments"
+            }
+        ]
+    },
+    {
+        "name": "Rentalcars.com",
         "names": [
             "Rentalcars.com"
         ],
@@ -3486,6 +4005,7 @@
         ]
     },
     {
+        "name": "Rexona",
         "names": [
             "Rexona"
         ],
@@ -3500,6 +4020,7 @@
         ]
     },
     {
+        "name": "Ritz",
         "names": [
             "Ritz"
         ],
@@ -3514,6 +4035,7 @@
         ]
     },
     {
+        "name": "River Island",
         "names": [
             "River Island"
         ],
@@ -3528,6 +4050,7 @@
         ]
     },
     {
+        "name": "Rockstar Energy",
         "names": [
             "Rockstar Energy"
         ],
@@ -3542,6 +4065,7 @@
         ]
     },
     {
+        "name": "Royal Canin",
         "names": [
             "Royal Canin"
         ],
@@ -3556,6 +4080,7 @@
         ]
     },
     {
+        "name": "S.Pellegrino",
         "names": [
             "S.Pellegrino"
         ],
@@ -3570,34 +4095,7 @@
         ]
     },
     {
-        "names": [
-            "SAP"
-        ],
-        "subtitle": "Computer technology company",
-        "description": "SAP donated money to israeli employees after the war started, with an additional 6,500 israeli shekels for each family member of the employee.",
-        "imageUrl": "https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_170763.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.timesofisrael.com/multinational-tech-firms-from-sap-to-intel-to-give-israeli-workers-wartime-grant"
-            }
-        ]
-    },
-    {
-        "names": [
-            "STELLA by Stella McCartney"
-        ],
-        "subtitle": "A cosmetics brand owned by Bernard Arnaults company, LVMH",
-        "description": "The owner of STELLA by Stella McCartney's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
-        "imageUrl": "https://r.lvmh-static.com/uploads/2022/08/stella-logo.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
-            }
-        ]
-    },
-    {
+        "name": "Sabra",
         "names": [
             "Sabra"
         ],
@@ -3612,6 +4110,7 @@
         ]
     },
     {
+        "name": "Sadaf Foods",
         "names": [
             "Sadaf Foods"
         ],
@@ -3626,6 +4125,22 @@
         ]
     },
     {
+        "name": "SAP",
+        "names": [
+            "SAP"
+        ],
+        "subtitle": "Computer technology company",
+        "description": "SAP donated money to israeli employees after the war started, with an additional 6,500 israeli shekels for each family member of the employee.",
+        "imageUrl": "https://cdn.icon-icons.com/icons2/2699/PNG/512/sap_logo_icon_170763.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.timesofisrael.com/multinational-tech-firms-from-sap-to-intel-to-give-israeli-workers-wartime-grant"
+            }
+        ]
+    },
+    {
+        "name": "Schweppes",
         "names": [
             "Schweppes"
         ],
@@ -3640,6 +4155,7 @@
         ]
     },
     {
+        "name": "Scotia Bank",
         "names": [
             "Scotia Bank"
         ],
@@ -3654,6 +4170,7 @@
         ]
     },
     {
+        "name": "Sephora",
         "names": [
             "Sephora"
         ],
@@ -3668,6 +4185,7 @@
         ]
     },
     {
+        "name": "Seven Seas",
         "names": [
             "Seven Seas"
         ],
@@ -3682,6 +4200,7 @@
         ]
     },
     {
+        "name": "Shams",
         "names": [
             "Shams"
         ],
@@ -3696,6 +4215,7 @@
         ]
     },
     {
+        "name": "Shredded Wheat",
         "names": [
             "Shredded Wheat"
         ],
@@ -3710,6 +4230,7 @@
         ]
     },
     {
+        "name": "Shreddies",
         "names": [
             "Shreddies"
         ],
@@ -3724,6 +4245,22 @@
         ]
     },
     {
+        "name": "Siemens",
+        "names": [
+            "Siemens"
+        ],
+        "subtitle": "A technology company that builds smart infrastructure, medical equipment, and appliances amongst other engineered products.",
+        "description": "Siemens is deeply involved in the building of israeli infrastructure with billions in contracts. Siemens also invests in israeli companies.",
+        "imageUrl": "https://logowik.com/content/uploads/images/316_siemens.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.ft.com/content/3e256794-b9a2-11de-a747-00144feab49a/"
+            }
+        ]
+    },
+    {
+        "name": "Simply Beverages",
         "names": [
             "Simply Beverages"
         ],
@@ -3738,6 +4275,7 @@
         ]
     },
     {
+        "name": "Skechers",
         "names": [
             "Skechers"
         ],
@@ -3752,6 +4290,7 @@
         ]
     },
     {
+        "name": "Skims",
         "names": [
             "Skims"
         ],
@@ -3766,6 +4305,7 @@
         ]
     },
     {
+        "name": "Skittles",
         "names": [
             "Skittles"
         ],
@@ -3780,6 +4320,7 @@
         ]
     },
     {
+        "name": "Smarties",
         "names": [
             "Smarties"
         ],
@@ -3794,6 +4335,7 @@
         ]
     },
     {
+        "name": "Smartwater",
         "names": [
             "Smartwater"
         ],
@@ -3808,6 +4350,7 @@
         ]
     },
     {
+        "name": "Snickers",
         "names": [
             "Snickers"
         ],
@@ -3822,6 +4365,7 @@
         ]
     },
     {
+        "name": "SodaStream",
         "names": [
             "SodaStream"
         ],
@@ -3836,6 +4380,7 @@
         ]
     },
     {
+        "name": "Sour Patch Kids",
         "names": [
             "Sour Patch Kids"
         ],
@@ -3850,6 +4395,7 @@
         ]
     },
     {
+        "name": "Sprite",
         "names": [
             "Sprite"
         ],
@@ -3864,6 +4410,22 @@
         ]
     },
     {
+        "name": "Spyglass Media Group",
+        "names": [
+            "Spyglass Media Group"
+        ],
+        "subtitle": "Spyglass Media Group is a zionist owned media company which makes movies and tv productions. ",
+        "description": "Spyglass Media Group fired Melissa Barrera from the Scream movie franchise for opposing genocide of Palestinians.",
+        "imageUrl": "https://media.wired.co.uk/photos/606d9e95fd9831b13e447120/4:3/w_2664,h_1998,c_limit/wired-express-vpn.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3918443,00.html"
+            }
+        ]
+    },
+    {
+        "name": "Standard Life",
         "names": [
             "Standard Life"
         ],
@@ -3878,6 +4440,7 @@
         ]
     },
     {
+        "name": "Starbucks",
         "names": [
             "Starbucks"
         ],
@@ -3892,6 +4455,22 @@
         ]
     },
     {
+        "name": "STELLA by Stella McCartney",
+        "names": [
+            "STELLA by Stella McCartney"
+        ],
+        "subtitle": "A cosmetics brand owned by Bernard Arnaults company, LVMH",
+        "description": "The owner of STELLA by Stella McCartney's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "imageUrl": "https://r.lvmh-static.com/uploads/2022/08/stella-logo.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
+            }
+        ]
+    },
+    {
+        "name": "Sudocrem",
         "names": [
             "Sudocrem"
         ],
@@ -3906,6 +4485,7 @@
         ]
     },
     {
+        "name": "Surf",
         "names": [
             "Surf"
         ],
@@ -3920,20 +4500,7 @@
         ]
     },
     {
-        "names": [
-            "TAG Heuer"
-        ],
-        "subtitle": "A luxury watch brand owned by Bernard Arnaults company, LVMH",
-        "description": "The owner of TAG Heuer's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
-        "imageUrl": "https://i.pinimg.com/originals/50/5f/1d/505f1dc613cff29078ccb445708b7b33.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
-            }
-        ]
-    },
-    {
+        "name": "Taboola",
         "names": [
             "Taboola"
         ],
@@ -3948,6 +4515,7 @@
         ]
     },
     {
+        "name": "Taco Bell",
         "names": [
             "Taco Bell"
         ],
@@ -3962,6 +4530,22 @@
         ]
     },
     {
+        "name": "TAG Heuer",
+        "names": [
+            "TAG Heuer"
+        ],
+        "subtitle": "A luxury watch brand owned by Bernard Arnaults company, LVMH",
+        "description": "The owner of TAG Heuer's parent company, LVMH, Bernard Arnault invests hundreds of millions in Israeli companies",
+        "imageUrl": "https://i.pinimg.com/originals/50/5f/1d/505f1dc613cff29078ccb445708b7b33.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.timesofisrael.com/luxury-goods-magnate-bernard-arnault-invests-in-israeli-cybersecurity-firm-wiz/"
+            }
+        ]
+    },
+    {
+        "name": "Tampax",
         "names": [
             "Tampax"
         ],
@@ -3976,6 +4560,7 @@
         ]
     },
     {
+        "name": "Tang",
         "names": [
             "Tang"
         ],
@@ -3990,6 +4575,7 @@
         ]
     },
     {
+        "name": "Ted Baker",
         "names": [
             "Ted Baker"
         ],
@@ -4004,6 +4590,7 @@
         ]
     },
     {
+        "name": "Temptations",
         "names": [
             "Temptations"
         ],
@@ -4018,6 +4605,7 @@
         ]
     },
     {
+        "name": "Tesco",
         "names": [
             "Tesco"
         ],
@@ -4032,6 +4620,7 @@
         ]
     },
     {
+        "name": "Teva Pharmaceuticals",
         "names": [
             "Teva Pharmaceuticals"
         ],
@@ -4046,6 +4635,7 @@
         ]
     },
     {
+        "name": "The Ordinary",
         "names": [
             "The Ordinary"
         ],
@@ -4060,6 +4650,7 @@
         ]
     },
     {
+        "name": "Tide",
         "names": [
             "Tide"
         ],
@@ -4074,6 +4665,7 @@
         ]
     },
     {
+        "name": "Tiffany & Co.",
         "names": [
             "Tiffany & Co."
         ],
@@ -4088,6 +4680,7 @@
         ]
     },
     {
+        "name": "Tim Hortons",
         "names": [
             "Tim Hortons"
         ],
@@ -4102,6 +4695,7 @@
         ]
     },
     {
+        "name": "Toblerone",
         "names": [
             "Toblerone"
         ],
@@ -4116,6 +4710,7 @@
         ]
     },
     {
+        "name": "Tom Ford Beauty",
         "names": [
             "Tom Ford Beauty"
         ],
@@ -4130,6 +4725,7 @@
         ]
     },
     {
+        "name": "Too Faced",
         "names": [
             "Too Faced"
         ],
@@ -4144,6 +4740,22 @@
         ]
     },
     {
+        "name": "Tory Burch",
+        "names": [
+            "Tory Burch"
+        ],
+        "subtitle": "Tory burch is a fashion label.",
+        "description": "Tory Burch donated large sums to israel.",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2017/08/Tory-Burch-emblem.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.algemeiner.com/2023/10/18/chanel-tory-burch-others-fashion-donate-help-israelis-impacted-hamas-war/?fbclid=PAAaagb8ArR3CKSwLwZ6a2pfwcwFG8NgDRuQk8JGjSp37f_TOtOx7gx78Uh1w"
+            }
+        ]
+    },
+    {
+        "name": "Tresemme",
         "names": [
             "Tresemme"
         ],
@@ -4158,6 +4770,7 @@
         ]
     },
     {
+        "name": "Tropicana",
         "names": [
             "Tropicana"
         ],
@@ -4172,6 +4785,7 @@
         ]
     },
     {
+        "name": "Twix",
         "names": [
             "Twix"
         ],
@@ -4186,6 +4800,7 @@
         ]
     },
     {
+        "name": "Unicef",
         "names": [
             "Unicef"
         ],
@@ -4200,6 +4815,7 @@
         ]
     },
     {
+        "name": "Unilever",
         "names": [
             "Unilever"
         ],
@@ -4214,6 +4830,7 @@
         ]
     },
     {
+        "name": "Urban Decay",
         "names": [
             "Urban Decay"
         ],
@@ -4228,6 +4845,7 @@
         ]
     },
     {
+        "name": "Valentino Beauty",
         "names": [
             "Valentino Beauty"
         ],
@@ -4242,6 +4860,7 @@
         ]
     },
     {
+        "name": "Venus",
         "names": [
             "Venus"
         ],
@@ -4256,6 +4875,7 @@
         ]
     },
     {
+        "name": "Viber",
         "names": [
             "Viber"
         ],
@@ -4270,6 +4890,7 @@
         ]
     },
     {
+        "name": "Vicks",
         "names": [
             "Vicks"
         ],
@@ -4284,6 +4905,7 @@
         ]
     },
     {
+        "name": "Victorias Secret",
         "names": [
             "Victorias Secret"
         ],
@@ -4298,6 +4920,7 @@
         ]
     },
     {
+        "name": "Viktor & Rolf Beauty",
         "names": [
             "Viktor & Rolf Beauty"
         ],
@@ -4312,6 +4935,37 @@
         ]
     },
     {
+        "name": "Visa",
+        "names": [
+            "Visa"
+        ],
+        "subtitle": "International card payment processor.",
+        "description": "Visa has opened a research and development center in israel and invests heavily in the local economy.",
+        "imageUrl": "https://i.pinimg.com/originals/27/2f/cd/272fcd3d1ac73529e35c8d9d420005fc.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.timesofisrael.com/credit-card-giant-visa-opens-israeli-rd-center/"
+            }
+        ]
+    },
+    {
+        "name": "Vitaminwater",
+        "names": [
+            "Vitaminwater"
+        ],
+        "subtitle": "Water brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Vitaminwater, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://pbs.twimg.com/profile_images/493743546512314369/HOtBuCiX_400x400.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ]
+    },
+    {
+        "name": "Vittel",
         "names": [
             "Vittel"
         ],
@@ -4326,6 +4980,7 @@
         ]
     },
     {
+        "name": "Volvic",
         "names": [
             "Volvic"
         ],
@@ -4340,6 +4995,7 @@
         ]
     },
     {
+        "name": "Volvo Heavy Machinery",
         "names": [
             "Volvo Heavy Machinery"
         ],
@@ -4354,6 +5010,7 @@
         ]
     },
     {
+        "name": "Walker's",
         "names": [
             "Walker's"
         ],
@@ -4368,6 +5025,7 @@
         ]
     },
     {
+        "name": "Walls Ice Creams",
         "names": [
             "Walls Ice Creams"
         ],
@@ -4378,6 +5036,141 @@
             {
                 "name": "Proof",
                 "url": "https://www.unilever.com/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/"
+            }
+        ]
+    },
+    {
+        "name": "Walmart",
+        "names": [
+            "Walmart"
+        ],
+        "subtitle": "American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores.",
+        "description": "Walmart was quick to pledge $1m to Israeli victims and condemned Hamas, however did not donate anything towards charities operating in Gaza for the victims of Israel's genocide.",
+        "imageUrl": "https://media.designrush.com/inspiration_images/345908/conversions/walmart_1-preview.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.jpost.com/business-and-innovation/article-770698"
+            }
+        ]
+    },
+    {
+        "name": "Waze",
+        "names": [
+            "Waze"
+        ],
+        "subtitle": "Israel based navigation app. Operations in Israel.",
+        "description": "Founder, Uri Levine, is a staunch zionist who is also ex-IDF (also founded moovit).",
+        "imageUrl": "https://9to5google.com/2020/06/29/waze-logo-2020-brand-refresh/waze-logo-2020-1/",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://twitter.com/UriLevine1"
+            }
+        ]
+    },
+    {
+        "name": "Wells Fargo",
+        "names": [
+            "Wells Fargo"
+        ],
+        "subtitle": "American multinational financial services company",
+        "description": "Wells Fargo was part of a $500m loan deal with a consortium of lenders, into Elbit Systems Ltd, the Israeli weapons manufacturer.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wells_Fargo_Logo_%282020%29.svg/800px-Wells_Fargo_Logo_%282020%29.svg.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://breachmedia.ca/revealed-bmo-bankrolled-israeli-weapons-maker-with-a-90m-loan/"
+            }
+        ]
+    },
+    {
+        "name": "Whiskas",
+        "names": [
+            "Whiskas"
+        ],
+        "subtitle": "Whiskas is a petcare brand which is owned by Mars.",
+        "description": "The owner of Whiskas, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "imageUrl": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-02/whiskas.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
+            }
+        ]
+    },
+    {
+        "name": "Wix",
+        "names": [
+            "Wix"
+        ],
+        "subtitle": "Israeli owned website building tool. Based in Tel Aviv, Israel.",
+        "description": "CEO Avishai Abrahami is a zionist who supports the IDF.",
+        "imageUrl": "https://cdn-icons-png.flaticon.com/512/5968/5968762.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://twitter.com/avishai_ab"
+            }
+        ]
+    },
+    {
+        "name": "Wrigley's Extra",
+        "names": [
+            "Wrigley's Extra"
+        ],
+        "subtitle": "Wrigleys Extra is a chewing gum brand owned by Mars.",
+        "description": "The owner of Wrigleys Extra, Mars, supports the zionist state by investing heavily in the foodtech startup scene through venture capital partner JVC.",
+        "imageUrl": "https://aus.mars.com/sites/g/files/jydpyr531/files/styles/brands_grid/public/2019-07/extra%20%281%29.png?itok=gLrMwSIU",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://aus.mars.com/news-and-stories/press-releases/mars-partners-with-jerusalem-venture-partners"
+            }
+        ]
+    },
+    {
+        "name": "Yum Foods",
+        "names": [
+            "Yum Foods"
+        ],
+        "subtitle": "International fast food franchise owner",
+        "description": "Yum Brands is an investor in Israeli start ups.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Yum%21_Brands_logo.svg/1200px-Yum%21_Brands_logo.svg.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html"
+            }
+        ]
+    },
+    {
+        "name": "Yves Saint Laurent Beauty / YSL Beauty",
+        "names": [
+            "Yves Saint Laurent Beauty / YSL Beauty"
+        ],
+        "subtitle": "Partnership between fashion house YSL and L'Oreal to produce their beauty range.",
+        "description": "YSL Beauty is a partnership with L'Oreal, which is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "imageUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102014/logo_cassandre-ysl.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://bdsmovement.net/news/l%E2%80%99oreal-makeup-israeli-apartheid"
+            }
+        ]
+    },
+    {
+        "name": "Zara israel",
+        "names": [
+            "Zara israel"
+        ],
+        "subtitle": "israel franchise of Spanish multinational retail clothing chain Zara.",
+        "description": "This incident is specific to the franchise owner Joey Schwebel, a Canadian-Israeli dual national and chairman of israel's Zara franchisee Trimera, hosted the convicted terrorist Itamar Ben-Gvir at his home in the lead-up to the Israeli elections. Although Zara have not made a statement distancing themselves from this incident.",
+        "imageUrl": "https://static.dezeen.com/uploads/2019/02/new-zara-logo-hero-1.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.middleeasteye.net/news/palestine-israel-zara-franchise-support-racist-mp-boycott"
             }
         ]
     }
