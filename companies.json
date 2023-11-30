@@ -24,7 +24,7 @@
         ],
         "subtitle": "Acqua Panna is a water brand owned by Nestle.",
         "description": "The owner of the Acqua Panna brand, Nestle, owns a controlling stake in Osem. Osem is an Israeli food manufacturer which operates in Occupied Palestine.",
-        "imageUrl": "https://www.nestle.com/sites/default/files/styles/thumbnail/public/acqua-panna-logo-round.png",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Acqua_Panna_logo.svg/800px-Acqua_Panna_logo.svg.png",
         "supportUrls": [
             {
                 "name": "Proof",
@@ -42,7 +42,7 @@
         ],
         "subtitle": "Food brand owned by Danone.",
         "description": "The owner of Actimel, Danone, invests millions into the israeli food start up scene.",
-        "imageUrl": "https://brandemia.org/contenido/subidas/2014/03/actimel_logo_principal1.jpg",
+        "imageUrl": "https://logonoid.com/images/actimel-logo.jpg",
         "supportUrls": [
             {
                 "name": "Proof",
@@ -61,7 +61,7 @@
         ],
         "subtitle": "Food brand owned by Danone.",
         "description": "The owner of Activia, Danone, invests millions into the israeli food start up scene.",
-        "imageUrl": "https://seeklogo.com/images/D/danone-activia-logo-4976BD71EE-seeklogo.com.png",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2020/08/Activia-Logo-2005.jpg",
         "supportUrls": [
             {
                 "name": "Proof",
@@ -98,7 +98,7 @@
         ],
         "subtitle": "Cosmetics company, owned by Estee Lauder.",
         "description": "Aerin is owned by Estee Lauder, who's ownership, especially Ronald Lauder, has extremist zionist views and financially and politically supports Israeli occupation of Palestinian land.",
-        "imageUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032016/untitled-1_33.png?itok=0-2RSCtz",
+        "imageUrl": "https://www.logolynx.com/images/logolynx/c5/c50e39b65f1ac4ffe4dbc2f9a4dce8ea.jpeg",
         "supportUrls": [
             {
                 "name": "Proof",
@@ -596,7 +596,7 @@
         ],
         "subtitle": "American multinational investment bank and financial services provider",
         "description": "Bank of America was part of a $500m loan deal with a consortium of lenders, into Elbit Systems Ltd, the Israeli weapons manufacturer.",
-        "imageUrl": "https://icons.veryicon.com/png/o/business/bank-logo-collection/bank-of-america-logo.png",
+        "imageUrl": "https://1000logos.net/wp-content/uploads/2016/10/Bank-of-America-Logo-1998.png",
         "supportUrls": [
             {
                 "name": "Proof",
@@ -632,7 +632,7 @@
         ],
         "subtitle": "Malt drink brand owned by the Coca Cola company.",
         "description": "Coca-Cola Company which owns Barbican, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
-        "imageUrl": "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/9/AmazonStores/A21TJRUUN4KGV/e6a4dc4396b5e27b1abc99ce5dacb555.w600.h600.png",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Barbican_logo.svg/800px-Barbican_logo.svg.png",
         "supportUrls": [
             {
                 "name": "Proof",
@@ -1961,13 +1961,13 @@
         "names": [
             "Dr Pepper"
         ],
-        "subtitle": "Soft drink brand owned by the Coca Cola company.",
-        "description": "Coca-Cola Company which owns Dr Pepper, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "subtitle": "Soft drink brand owned by JAB Holdings.",
+        "description": "The owners of Dr Pepper, the Reimann family are staunch zionists and support the zionist state with investment and donations through their Alfred Landecker Foundation.",
         "imageUrl": "https://www.coca-cola.com/content/dam/onexp/gb/en/logos/v2/uk_dr_pepper_logo_286x180.png",
         "supportUrls": [
             {
                 "name": "Proof",
-                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+                "url": "https://www.alfredlandecker.org/en/article/the-story-of-the-alfred-landecker-foundation"
             }
         ],
         "categories": [
@@ -2879,12 +2879,12 @@
         ]
     },
     {
-        "name": "Keratase",
+        "name": "Kerastase",
         "names": [
-            "Keratase"
+            "Kerastase"
         ],
         "subtitle": "Skincare brand owned by L'Oreal",
-        "description": "Keratase is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
+        "description": "Kerastase is owned by L'Oreal. L'Oreal is a 'warm friend of Israel'. After sending a letter to the Arab League with information helping the boycott, they paid a $1.4m fine and issued an apology, before fostering a new relationship with Israel, with heavy investment and even operating a factory in Occupied Palestine.",
         "imageUrl": "https://static.couponfollow.com/kerastase-ca/logo.png",
         "supportUrls": [
             {
@@ -6235,7 +6235,7 @@
             "Waze"
         ],
         "subtitle": "Israel based navigation app. Operations in Israel.",
-        "description": "Founder, Uri Levine, is a staunch zionist who is also ex-IDF (also founded moovit).",
+        "description": "Founder, Uri Levine, is a staunch zionist who is also ex-IDF (also founded moovit). Waze was bought by Google who are also on the boycott list for building israels supercomputer with Amazon. Waze is owned by Google but their team and office is still based in israel. Waze is a revenue generator, because it serves ads on the map itself which means they make money when you use navigation. Google maps is free and not a revenue generator. It helps Google to target you with ads later, but if you do not click those ads, then you are not benefiting Google. So we recommend using Google maps, but not clicking on Google ads when you browse the internet..",
         "imageUrl": "https://9to5google.com/2020/06/29/waze-logo-2020-brand-refresh/waze-logo-2020-1/",
         "supportUrls": [
             {
