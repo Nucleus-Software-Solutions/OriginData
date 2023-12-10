@@ -18,6 +18,44 @@
         ]
     },
     {
+        "name": "8fig",
+        "names": [
+            "8fig"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "8fig is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3ddd5fbb-0020-43be-a1a3-e3353717d712/8fig-logo_cyan-green_RGB_cropped-300x191-1/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/8fig"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
+        "name": "A.Team",
+        "names": [
+            "A.Team"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "A.Team is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32528a0b-67dc-4c3f-aa90-3084a099f8be/logo_a-teams/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/ateam"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
+        ]
+    },
+    {
         "name": "Acqua Panna",
         "names": [
             "Acqua Panna"
@@ -146,6 +184,25 @@
         ]
     },
     {
+        "name": "Affogata",
+        "names": [
+            "Affogata"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Affogata is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/6561612e-d08d-4002-ab63-abf6d65030ef/Affogata-logo-NEW/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/affogata"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
         "name": "Agoda",
         "names": [
             "Agoda"
@@ -180,6 +237,44 @@
         ],
         "categories": [
             "cosmetics"
+        ]
+    },
+    {
+        "name": "AI21 Labs",
+        "names": [
+            "AI21 Labs"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "AI21 Labs is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ec970611-9586-49ea-b4a6-97188a5fea4c/64f05d8a45e1c6882bfa0ca3_Announcement/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/ai21-labs"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
+        "name": "Aidoc",
+        "names": [
+            "Aidoc"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Aidoc is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3608ad95-6489-41f8-9eb2-47754fcdda57/aidoc/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/aidoc"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
         ]
     },
     {
@@ -235,6 +330,25 @@
         ],
         "categories": [
             "supermarket"
+        ]
+    },
+    {
+        "name": "Aligned",
+        "names": [
+            "Aligned"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Aligned is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/6787f2ac-46c7-4abe-9326-ab223fe29c0a/aligned3/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/aligned"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
         ]
     },
     {
@@ -311,6 +425,25 @@
         ]
     },
     {
+        "name": "Amdocs",
+        "names": [
+            "Amdocs"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Amdocs is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/23b0aaec-90b3-4c23-a40b-3b10eb81ebca/amdocs/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/amdocs"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "American Eagle",
         "names": [
             "American Eagle"
@@ -349,6 +482,44 @@
         ]
     },
     {
+        "name": "Anima",
+        "names": [
+            "Anima"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Anima is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/217a9184-b333-4c8e-9ec4-232d09c79faa/anima/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/anima"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
+        ]
+    },
+    {
+        "name": "Apiiro",
+        "names": [
+            "Apiiro"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Apiiro is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b63b8e87-5b99-4032-b885-a030a0e263bf/7509eead3518f9b45d72237c5d0bf6bab033ee25-1340x894/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/apiiro"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
         "name": "Appletiser",
         "names": [
             "Appletiser"
@@ -364,6 +535,44 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Appsflyer",
+        "names": [
+            "Appsflyer"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Appsflyer is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/01efbefa-9768-4a34-a64c-5dca33783a97/AFLogo_primary/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/appsflyer"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
+        "name": "Appwrite",
+        "names": [
+            "Appwrite"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Appwrite is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/69b88bc6-5241-4dcb-a12c-a8c5f8624a67/appwriteio-ar21/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/appwrite"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
         ]
     },
     {
@@ -383,6 +592,25 @@
         "categories": [
             "food",
             "drinks"
+        ]
+    },
+    {
+        "name": "Aqua Security",
+        "names": [
+            "Aqua Security"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Aqua Security is an Israeli tech company",
+        "imageUrl": "https://www.aquasec.com/wp-content/uploads/2022/06/Aqua-Logo-Color-RGB-2022-300x300-1.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/aqua-security"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -552,6 +780,25 @@
         ]
     },
     {
+        "name": "Axonius",
+        "names": [
+            "Axonius"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Axonius is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7f7a827b-495e-4506-aef8-aad3d2d5659e/axonius_it-risk-management-solutions_1621351412990/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/ax"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
         "name": "BAE Systems",
         "names": [
             "BAE Systems"
@@ -568,6 +815,25 @@
         "categories": [
             "weapons",
             "manufacturer"
+        ]
+    },
+    {
+        "name": "Balance",
+        "names": [
+            "Balance"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Balance is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b73d398a-2f4d-443a-892c-cda183b6e94d/Balance_Logo_Black/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/balance"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
         ]
     },
     {
@@ -771,6 +1037,25 @@
         ]
     },
     {
+        "name": "BigPanda",
+        "names": [
+            "BigPanda"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "BigPanda is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9e6a12c9-aa3b-4e14-836b-431162780bfb/Screenshot_2023-10-30_at_13.54.10/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/bigpanda"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "BIOTHERM",
         "names": [
             "BIOTHERM"
@@ -789,6 +1074,25 @@
         ]
     },
     {
+        "name": "Blink Ops",
+        "names": [
+            "Blink Ops"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Blink Ops is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7d2e58c8-5b85-4229-a772-24a8dd826ed4/Logomark_Dark_x3/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/blink-ops"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
         "name": "BNP Paribas",
         "names": [
             "BNP Paribas"
@@ -804,6 +1108,25 @@
         ],
         "categories": [
             "finance"
+        ]
+    },
+    {
+        "name": "Bob",
+        "names": [
+            "Bob"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Bob is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7788b68c-35e2-4d63-8c4b-e7a470ffe8e9/bob_logo_Trans_red/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/hibob"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
         ]
     },
     {
@@ -899,6 +1222,24 @@
         ]
     },
     {
+        "name": "Bon Aqua",
+        "names": [
+            "Bon Aqua"
+        ],
+        "subtitle": "Water brand owned by the Coca Cola company.",
+        "description": "Coca-Cola Company which owns Bon Aqua, operates a factory in the illegal Israeli settlement of Atarot, which is built in Occupied Palestine.",
+        "imageUrl": "https://www.coca-colahellenic.com/content/dam/cch/us/images/our-24-7-portfolio/brand-image/bonaqua-logo-300x300-1.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.foa.org.uk/campaign/boycottcocacola"
+            }
+        ],
+        "categories": [
+            "drinks"
+        ]
+    },
+    {
         "name": "Booking.com",
         "names": [
             "Booking.com"
@@ -987,6 +1328,25 @@
         ],
         "categories": [
             "healthcare"
+        ]
+    },
+    {
+        "name": "Bringg",
+        "names": [
+            "Bringg"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Bringg is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/73c7efd5-101c-4d33-973b-1983bdf76149/Bringg_Logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/bringg"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
         ]
     },
     {
@@ -1234,6 +1594,25 @@
         ]
     },
     {
+        "name": "Celery",
+        "names": [
+            "Celery"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Celery is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/946177bd-b3f0-4813-8ae7-ad010dbcdc4e/Celery2/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/celery"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
         "name": "Celine",
         "names": [
             "Celine"
@@ -1272,6 +1651,25 @@
         ]
     },
     {
+        "name": "CEVA",
+        "names": [
+            "CEVA"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "CEVA is an Israeli tech company",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/CEVA_Inc_Logo.svg/1200px-CEVA_Inc_Logo.svg.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/ceva"
+            }
+        ],
+        "categories": [
+            "technology",
+            "semiconductors"
+        ]
+    },
+    {
         "name": "Chanel",
         "names": [
             "Chanel"
@@ -1289,6 +1687,25 @@
             "cosmetics",
             "clothing",
             "fashion"
+        ]
+    },
+    {
+        "name": "Chargeflow",
+        "names": [
+            "Chargeflow"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Chargeflow is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/226dbefe-921e-4f12-9aa4-df244d0d2781/Chargeflow_SEON_logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/chargeflow"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
         ]
     },
     {
@@ -1326,6 +1743,25 @@
         "categories": [
             "technology",
             "travel"
+        ]
+    },
+    {
+        "name": "CheckPoint",
+        "names": [
+            "CheckPoint"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "CheckPoint is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3d2986f4-38b2-40af-b5d2-e44cc92a14b8/chkp/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/checkpoint"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -1383,6 +1819,25 @@
         ]
     },
     {
+        "name": "Claroty",
+        "names": [
+            "Claroty"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Claroty is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/db78fb77-af1e-4bf8-ad4a-6320d60ce47c/claroty/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/claroty"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
         "name": "Clear Blue",
         "names": [
             "Clear Blue"
@@ -1419,6 +1874,25 @@
         ]
     },
     {
+        "name": "Cloudinary",
+        "names": [
+            "Cloudinary"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Cloudinary is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b9791a4c-fb30-4502-9181-aadc6ec6ca25/Screenshot_2023-10-30_at_13.50.49/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/cloudinary"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "Coca-Cola",
         "names": [
             "Coca-Cola"
@@ -1434,6 +1908,25 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Codium",
+        "names": [
+            "Codium"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Codium is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/95f6d751-093c-4435-8adc-6155f3df8e6e/1647345741-e6c7edc573f9601b28f02d86471a1908f552a5d1a66a499c8baec88db2273f3e-d_640/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/codium"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
         ]
     },
     {
@@ -1473,6 +1966,25 @@
         ]
     },
     {
+        "name": "Connecteam",
+        "names": [
+            "Connecteam"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Connecteam is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5d907c44-6094-40a4-906e-3d6eb084fa79/connecteam-share/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/connecteam"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
+        ]
+    },
+    {
         "name": "Conservative party",
         "names": [
             "Conservative party"
@@ -1488,6 +2000,25 @@
         ],
         "categories": [
             "politics"
+        ]
+    },
+    {
+        "name": "Coralogix",
+        "names": [
+            "Coralogix"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Coralogix is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/74413ad2-4ed2-45ea-8e6c-1c44be226211/coralogix/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/coralogix"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
         ]
     },
     {
@@ -1603,6 +2134,63 @@
         ]
     },
     {
+        "name": "CyberArk",
+        "names": [
+            "CyberArk"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "CyberArk is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/79c2c01b-ffba-4d2a-ba1f-99e8f08b12d1/cyberark/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/cyberark"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
+        "name": "Cybereason",
+        "names": [
+            "Cybereason"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Cybereason is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/20131864-475a-4e66-8531-a82d6d8dbdf3/cybereason/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/cybereason"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
+        "name": "DagsHub",
+        "names": [
+            "DagsHub"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "DagsHub is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8d06a5da-c070-4f7f-bf96-cd31ab42046a/dagshub_github/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/dagshub"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "Daim",
         "names": [
             "Daim"
@@ -1658,6 +2246,25 @@
         ]
     },
     {
+        "name": "Dany",
+        "names": [
+            "Dany"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Dany is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/93f1c15e-2f88-43a2-a2ee-be81befea2d4/Dany_Logo_600w/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/dany"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
         "name": "Dasani Water",
         "names": [
             "Dasani Water"
@@ -1673,6 +2280,44 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Dealhub",
+        "names": [
+            "Dealhub"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Dealhub is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d0b783c6-c167-4c99-b063-6f792199fc83/58eb4414445216b812579c1bb013b69a/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/dealhub"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
+        "name": "DeepCure",
+        "names": [
+            "DeepCure"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "DeepCure is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9d35ab81-b87b-48c9-8d6f-4cf2d2d2294c/Screenshot_2023-10-30_at_13.46.14/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/deepcure"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
         ]
     },
     {
@@ -1710,6 +2355,44 @@
         ],
         "categories": [
             "technology"
+        ]
+    },
+    {
+        "name": "Demoleap",
+        "names": [
+            "Demoleap"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Demoleap is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/94dd0e83-88ce-40e2-aab9-15693ec5cea7/Demoleap_Logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/demoleap"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
+        "name": "Descope",
+        "names": [
+            "Descope"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Descope is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5c252922-d9c5-41cc-8d08-1426a7153f6b/Screenshot_2023-10-31_at_8.54.31/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/descope"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -1767,6 +2450,25 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Dig Security",
+        "names": [
+            "Dig Security"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Dig Security is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/fb2ae7bd-7027-489a-975b-71db83712bf8/627cdd2ff3a0f536e717f411_Featured_Image/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/dig-security"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -1975,6 +2677,44 @@
         ]
     },
     {
+        "name": "Draftboard",
+        "names": [
+            "Draftboard"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Draftboard is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/76f25429-f39f-43d8-b3d3-ecdb5b90995f/draftboard_cover/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/draftboard"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
+        ]
+    },
+    {
+        "name": "Droxi.ai",
+        "names": [
+            "Droxi.ai"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Droxi.ai is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/490f2bfd-767e-44ce-910f-1642fd64c1fb/droxi/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/droxiai"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
+        ]
+    },
+    {
         "name": "Eden Springs",
         "names": [
             "Eden Springs"
@@ -2009,6 +2749,44 @@
         "categories": [
             "weapons",
             "manufacturer"
+        ]
+    },
+    {
+        "name": "Elementor",
+        "names": [
+            "Elementor"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Elementor is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7792bf05-36b7-481e-925a-fee633f1851e/Screenshot_2023-10-30_at_13.48.37/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/elemento"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
+        "name": "Eleos Health",
+        "names": [
+            "Eleos Health"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Eleos Health is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5902437b-4f28-4863-ad31-916a0d371f38/eleos-logo-cmyk-OG/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/eleos-health"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
         ]
     },
     {
@@ -2104,6 +2882,25 @@
         ]
     },
     {
+        "name": "Explorium",
+        "names": [
+            "Explorium"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Explorium is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/38ed4f71-0247-40f9-ba2c-89060446ff3c/explorium_1615379409724/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/explorium"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "Express VPN",
         "names": [
             "Express VPN"
@@ -2119,6 +2916,25 @@
         ],
         "categories": [
             "technology"
+        ]
+    },
+    {
+        "name": "Fabric",
+        "names": [
+            "Fabric"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Fabric is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dc20c142-5df1-4c43-9658-8aaacbbb964e/926e4aa3fe9b4905b16412df921b0f63ecc91f22/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/fabric"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
         ]
     },
     {
@@ -2252,6 +3068,101 @@
         ]
     },
     {
+        "name": "Finaloop",
+        "names": [
+            "Finaloop"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Finaloop is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e7750211-3d2c-43aa-84cf-f967365dacdd/6374d36ed341423dd86154d2_Frame_34194.min/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/finaloop"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
+        "name": "Finout",
+        "names": [
+            "Finout"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Finout is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8ef35d6b-2b66-49dc-9fe0-3d9c6126d752/finout_logo_black_text/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/finout"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
+        ]
+    },
+    {
+        "name": "Fintastic",
+        "names": [
+            "Fintastic"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Fintastic is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ce5b4745-bbf2-4d8b-a4bf-d55f80eb0a8a/fintastic/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/fintastic"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
+        "name": "Firebolt",
+        "names": [
+            "Firebolt"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Firebolt is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ef29ea4a-0aa3-4f07-b482-ffe8a4ae494c/Firebolt_logo.svg/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/firebolt"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
+        ]
+    },
+    {
+        "name": "Firefly",
+        "names": [
+            "Firefly"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Firefly is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/238398dd-1cf0-48f0-aacb-3c0a92c429ec/LU_c4dVq_400x400/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/firefly"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
+        ]
+    },
+    {
         "name": "Fiverr",
         "names": [
             "Fiverr"
@@ -2285,6 +3196,82 @@
         ],
         "categories": [
             "household"
+        ]
+    },
+    {
+        "name": "Forter",
+        "names": [
+            "Forter"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Forter is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b8428789-f815-447a-be73-692d9ce25c1a/Forter_Logo_-_New_Blue/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/forter"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
+        "name": "Frontegg",
+        "names": [
+            "Frontegg"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Frontegg is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8cd3716a-af79-4d55-a553-257fef68e81d/download-1/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/frontegg"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
+        "name": "Fundbox",
+        "names": [
+            "Fundbox"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Fundbox is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8811d7a1-557b-46d9-8142-713d0fbbec55/Fundbox/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/fundbox"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
+        "name": "FundGuard",
+        "names": [
+            "FundGuard"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "FundGuard is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/68d9df61-f97e-46da-b845-5bffd7e6eef2/FundGuard_LOGO_FINAL_blue/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/fundguard"
+            }
+        ],
+        "categories": [
+            "technology",
+            "fintech"
         ]
     },
     {
@@ -2378,6 +3365,25 @@
         ]
     },
     {
+        "name": "Gelt",
+        "names": [
+            "Gelt"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Gelt is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3b09c449-45b2-4a3c-89a7-318559b67730/Screenshot_2023-10-30_at_10.00.42/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/gelt"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
         "name": "Gillette",
         "names": [
             "Gillette"
@@ -2454,6 +3460,63 @@
         ]
     },
     {
+        "name": "Global-e",
+        "names": [
+            "Global-e"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Global-e is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/0897a85e-6485-405f-9922-d3ae8267fc80/global-e/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/global-e"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
+        "name": "Gloww",
+        "names": [
+            "Gloww"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Gloww is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3bdbc2ff-a349-4f15-9799-a07aacec1e93/Logo_dark/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/gloww"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
+        ]
+    },
+    {
+        "name": "Gong",
+        "names": [
+            "Gong"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Gong is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8d52d9e8-4d41-4459-8842-275263982c44/gong6465/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/gong"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
         "name": "Google",
         "names": [
             "Google"
@@ -2472,6 +3535,25 @@
         ]
     },
     {
+        "name": "Graphiti",
+        "names": [
+            "Graphiti"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Graphiti is an Israeli tech company",
+        "imageUrl": "https://pbs.twimg.com/profile_images/1671169862348197890/_FJNuxP3_400x400.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/graphiti"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
         "name": "Grenade",
         "names": [
             "Grenade"
@@ -2487,6 +3569,63 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "Groove",
+        "names": [
+            "Groove"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Groove is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3cbdb586-d862-470d-9284-6a6ee51b0125/groove/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/groove"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
+        ]
+    },
+    {
+        "name": "GrowthSpace",
+        "names": [
+            "GrowthSpace"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "GrowthSpace is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/a29cd83a-25ea-435a-8032-1072cbabe2af/5dd72c8f620538a65d2e4aed52ef27511918b8f4/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/growthspace"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
+        ]
+    },
+    {
+        "name": "Habana Labs",
+        "names": [
+            "Habana Labs"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Habana Labs is an Israeli tech company",
+        "imageUrl": "https://pbs.twimg.com/profile_images/1524075842011160577/IV5fb8KR_400x400.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/habana-labs"
+            }
+        ],
+        "categories": [
+            "technology",
+            "semiconductors"
         ]
     },
     {
@@ -2546,6 +3685,25 @@
         ]
     },
     {
+        "name": "Healthy.io",
+        "names": [
+            "Healthy.io"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Healthy.io is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8a6196b2-847a-46a9-95f3-cf38e335c2fb/sfwb8egozmz0ae5jo8di/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/healthyio"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
+        ]
+    },
+    {
         "name": "Hellman's",
         "names": [
             "Hellman's"
@@ -2580,6 +3738,25 @@
         "categories": [
             "cosmetics",
             "healthcare"
+        ]
+    },
+    {
+        "name": "Honeybook",
+        "names": [
+            "Honeybook"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Honeybook is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bea0ffa4-9343-4b2b-9bfe-2e4dc1896fd8/honeybook/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/honeybook"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
         ]
     },
     {
@@ -2712,6 +3889,81 @@
         ]
     },
     {
+        "name": "Immunai",
+        "names": [
+            "Immunai"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Immunai is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/80c4e0ee-019f-4202-91cb-d9d260dcfa56/immunai-logo-full2x-100/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/immunai"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
+        ]
+    },
+    {
+        "name": "Imperva",
+        "names": [
+            "Imperva"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Imperva is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ab1056a1-a2e9-47fb-b106-f46414857c59/imperva/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/imperva"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
+        "name": "Indeitq",
+        "names": [
+            "Indeitq"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Indeitq is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e77b92ff-69e0-480c-8204-434c36c7d68d/idenitq/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/indeitq"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
+        "name": "Indigo Books",
+        "names": [
+            "Indigo Books"
+        ],
+        "subtitle": "Indigo, Canada's largest book and music retail chain is headed by Heather Reisman, the owner and CEO",
+        "description": "The couple Gerry Schwartz and Heather Reisman are prominent business people in Canada and are both actively involved in supporting the state of israel.",
+        "imageUrl": "https://scarboroughtowncentre.com/wp-content/uploads/2021/11/9b0e5b28fdeb73b86ea47ceca4e1ac79c75c51a5.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.heseg.com/%D7%9E%D7%99%D7%99%D7%A1%D7%93%D7%99-%D7%94%D7%A7%D7%A8%D7%9F?lang=en"
+            }
+        ],
+        "categories": [
+            "books"
+        ]
+    },
+    {
         "name": "Innocent Smoothies",
         "names": [
             "Innocent Smoothies"
@@ -2727,6 +3979,25 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Intail.ai",
+        "names": [
+            "Intail.ai"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Intail.ai is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/153a5da3-08f4-4f78-9ce7-66f84ad3538d/intail.ai_Logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/intail"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
         ]
     },
     {
@@ -2784,6 +4055,44 @@
         ]
     },
     {
+        "name": "JFrog",
+        "names": [
+            "JFrog"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "JFrog is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/83e7624c-4f40-4476-a992-193d1691a05e/jfrog/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/jfrog"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
+        "name": "Jifiti",
+        "names": [
+            "Jifiti"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Jifiti is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1306569d-4a60-4718-9852-af77972ef584/Jifiti_Logo_Blue/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/jifiti"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
         "name": "Jo Malone",
         "names": [
             "Jo Malone"
@@ -2837,6 +4146,44 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "K Health",
+        "names": [
+            "K Health"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "K Health is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ba8bc79c-909b-47e7-b15e-69cf65a0d86a/k-health-dark-blue/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/k-health"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
+        ]
+    },
+    {
+        "name": "Kaltura",
+        "names": [
+            "Kaltura"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Kaltura is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b8eecf1c-dd6e-4647-ba25-cb29b24eff75/code_block_Zohar_Babin/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/kaltura"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
         ]
     },
     {
@@ -3022,6 +4369,25 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "Komodor",
+        "names": [
+            "Komodor"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Komodor is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bf58f4b1-10eb-4214-b51c-a93647cfe646/komodor_4/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/komodor"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
         ]
     },
     {
@@ -3261,6 +4627,25 @@
         ]
     },
     {
+        "name": "Lightricks",
+        "names": [
+            "Lightricks"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Lightricks is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f6ce1683-85fe-4d0f-b9aa-ad7cb8815f0a/lightricks/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/lightricks"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
         "name": "Lion",
         "names": [
             "Lion"
@@ -3373,6 +4758,25 @@
         ]
     },
     {
+        "name": "Logz.io",
+        "names": [
+            "Logz.io"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Logz.io is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f8fb9141-0cc8-4090-98a4-925f57d45d45/logz/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/logzio"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "Loreal / L'oreal",
         "names": [
             "Loreal / L'oreal"
@@ -3408,6 +4812,25 @@
             "fashion",
             "clothing",
             "cosmetics"
+        ]
+    },
+    {
+        "name": "Lusha",
+        "names": [
+            "Lusha"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Lusha is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5e2ca65d-faf2-4029-b403-581ec420da9a/Lusha_logo.svg/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/l"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
         ]
     },
     {
@@ -3508,7 +4931,7 @@
             "Magen David Adom"
         ],
         "subtitle": "israeli organisation which supervises ambulance services",
-        "description": "Physicians for Human Rights accused Israel’s Magen David Adom, which supervises ambulance services – of ignoring evidence it has collected of ambulance crews adopting a policy of denying Palestinians treatment.",
+        "description": "Physicians for Human Rights accused Israel's Magen David Adom, which supervises ambulance services - of ignoring evidence it has collected of ambulance crews adopting a policy of denying Palestinians treatment.",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Magen_David_Adom.svg/1775px-Magen_David_Adom.svg.png",
         "supportUrls": [
             {
@@ -3612,6 +5035,25 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "Mapme",
+        "names": [
+            "Mapme"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Mapme is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/cdec2195-e2a2-4ed1-8faf-7afa0322299f/download/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/mapme"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
         ]
     },
     {
@@ -3732,6 +5174,44 @@
         ]
     },
     {
+        "name": "Melio",
+        "names": [
+            "Melio"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Melio is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e4cdf975-7ec2-4876-8363-b149c8c2bc0c/Melio_logo.svg/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/melio"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
+        "name": "Mellanox",
+        "names": [
+            "Mellanox"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Mellanox is an Israeli tech company",
+        "imageUrl": "https://www.etp4hpc.eu/img/image/fotos/mellanox-logo-square.jpg?&q=50",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/mellanox"
+            }
+        ],
+        "categories": [
+            "technology",
+            "semiconductors"
+        ]
+    },
+    {
         "name": "Mercedes Benz",
         "names": [
             "Mercedes Benz"
@@ -3747,6 +5227,25 @@
         ],
         "categories": [
             "car"
+        ]
+    },
+    {
+        "name": "Mesh Payments",
+        "names": [
+            "Mesh Payments"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Mesh Payments is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f87f8307-4c5d-4f99-9ebe-c57afb52e787/Mesh-Payments-768x427/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/mesh-payments"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
         ]
     },
     {
@@ -3858,6 +5357,25 @@
         ]
     },
     {
+        "name": "Mixtiles",
+        "names": [
+            "Mixtiles"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Mixtiles is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/62032d7f-5d52-491a-863d-d215b0eecbaf/Screenshot_2023-10-30_at_13.57.13/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/mixtiles"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
         "name": "Monday.com",
         "names": [
             "Monday.com"
@@ -3873,6 +5391,25 @@
         ],
         "categories": [
             "technology"
+        ]
+    },
+    {
+        "name": "Monday.com",
+        "names": [
+            "Monday.com"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Monday.com is an Israeli tech company",
+        "imageUrl": "https://ceblog.s3.amazonaws.com/wp-content/uploads/2020/11/13182233/Monday-Logo-1.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/mondaycom"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
         ]
     },
     {
@@ -3910,6 +5447,25 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Monto",
+        "names": [
+            "Monto"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Monto is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/bd6581d6-6f08-42d3-8cdf-97872beb4bd1/Monto4/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/monto"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
         ]
     },
     {
@@ -4024,6 +5580,44 @@
         ]
     },
     {
+        "name": "myInterview",
+        "names": [
+            "myInterview"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "myInterview is an Israeli tech company",
+        "imageUrl": "https://marketing-assets.pinpointhq.com/wp-content/uploads/2020/03/pinpoint-myinterview-integration-dd97735c32858890370432e28b2a9ebc.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/myinterview"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
+        ]
+    },
+    {
+        "name": "myQuest",
+        "names": [
+            "myQuest"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "myQuest is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/910fe0df-07fc-400b-8657-2452b1c53089/facebokAd/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/myquest"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
+        ]
+    },
+    {
         "name": "Naked Juice",
         "names": [
             "Naked Juice"
@@ -4039,6 +5633,25 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Navina",
+        "names": [
+            "Navina"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Navina is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/786c954f-981b-4889-aa1d-a214a9f4d5b0/logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/navina"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
         ]
     },
     {
@@ -4115,6 +5728,63 @@
         ]
     },
     {
+        "name": "Nexite",
+        "names": [
+            "Nexite"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Nexite is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1c9e49a0-d1ad-4271-b654-8202fd63e6f0/download-1/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/nexite"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
+        "name": "Next",
+        "names": [
+            "Next"
+        ],
+        "subtitle": "Clothing company controlled by the zionist Wolfson family.",
+        "description": "The Wolfson family is known for its charity which provides grants for science initiatives and cultural projects in israel. The family has controlled Next plc through various positions including Chairman David Wolfson and his son Simon Wolfson, the current CEO of Next.",
+        "imageUrl": "https://www.nextplc.co.uk/~/media/Images/N/Next-PLC-V2/content-images/image-gallery/logos/next-white-v2-logo.jpg?w=767",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.wfct.org/"
+            }
+        ],
+        "categories": [
+            "clothing",
+            "fashion"
+        ]
+    },
+    {
+        "name": "Nice Systems",
+        "names": [
+            "Nice Systems"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Nice Systems is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2a6f5f19-6704-4d01-8ce2-0d21180bb879/Nice_Logo_2.svg/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/nice-systems"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
         "name": "NIOD",
         "names": [
             "NIOD"
@@ -4130,6 +5800,62 @@
         ],
         "categories": [
             "cosmetics"
+        ]
+    },
+    {
+        "name": "Noble",
+        "names": [
+            "Noble"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Noble is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/781e8bc9-99ac-4306-9696-cc4c5bad7388/noble_logo_png/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/noble"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
+        "name": "Noname Security",
+        "names": [
+            "Noname Security"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Noname Security is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/624e9cf5-778b-4f14-b67d-63e7c83fc28c/Noname-Security/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/noname-security"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
+        "name": "Noon.com",
+        "names": [
+            "Noon.com"
+        ],
+        "subtitle": "Online retailer owned by the Mohamed Alabbar",
+        "description": "Mohamed Alabbar is a huge supporter of israel, contributing with investments and donations to settlements and infrastructure, and is a big voice for normalisation between the UAE and israel.",
+        "imageUrl": "https://www.channelengine.com/hubfs/Imported_Blog_Media/noon-website.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://www.jpost.com/health-and-wellness/article-745543"
+            }
+        ],
+        "categories": [
+            "technology"
         ]
     },
     {
@@ -4262,6 +5988,25 @@
         ]
     },
     {
+        "name": "Optimove",
+        "names": [
+            "Optimove"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Optimove is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/228de3f6-9c58-4567-af52-220570efeec3/images/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/optimove"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
         "name": "Oracle",
         "names": [
             "Oracle"
@@ -4370,6 +6115,25 @@
         ]
     },
     {
+        "name": "Pagaya",
+        "names": [
+            "Pagaya"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Pagaya is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/887381e4-7273-4a73-92b5-40bf8488988c/pagaya/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/pagaya"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
         "name": "Pampers",
         "names": [
             "Pampers"
@@ -4386,6 +6150,25 @@
         "categories": [
             "healthcare",
             "household"
+        ]
+    },
+    {
+        "name": "Panoray",
+        "names": [
+            "Panoray"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Panoray is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/6537c9af-e059-4022-8228-384d9ccad565/Screenshot_2023-10-30_at_13.58.00/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/panoray"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -4408,6 +6191,44 @@
         ]
     },
     {
+        "name": "Papaya Global",
+        "names": [
+            "Papaya Global"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Papaya Global is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b7759c98-086a-497d-8160-e038e56ee8cd/Papaya_Global_logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/papaya-global"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hr"
+        ]
+    },
+    {
+        "name": "PayEm",
+        "names": [
+            "PayEm"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "PayEm is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b20fa9b7-ce03-46a7-9aae-111cf4cc01f9/69e8f65a0d4bfff5953eb4e5256468a186320208-2400x1256/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/payem"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
         "name": "Payoneer",
         "names": [
             "Payoneer"
@@ -4426,6 +6247,25 @@
         ]
     },
     {
+        "name": "PDQ",
+        "names": [
+            "PDQ"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "PDQ is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f65d3f7a-9067-4e5c-9939-cf291e601be1/pdq/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/pdq"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
         "name": "Pedigree",
         "names": [
             "Pedigree"
@@ -4441,6 +6281,25 @@
         ],
         "categories": [
             "petcare"
+        ]
+    },
+    {
+        "name": "PeerSpot",
+        "names": [
+            "PeerSpot"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "PeerSpot is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/efd2bec5-511a-49c8-903d-b9aecf499523/PeerSpot_Logo_Horizontal_Light-BG/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/peerspot"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
         ]
     },
     {
@@ -4479,6 +6338,25 @@
         "categories": [
             "drinks",
             "food"
+        ]
+    },
+    {
+        "name": "Permit.io",
+        "names": [
+            "Permit.io"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Permit.io is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/06987c8d-666e-4f4e-a3f5-1518a02a0302/permitio-SQ/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/permitio"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
         ]
     },
     {
@@ -4555,6 +6433,25 @@
         ]
     },
     {
+        "name": "Placer.ai",
+        "names": [
+            "Placer.ai"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Placer.ai is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d0b3854d-ee3a-4c52-a6fc-6fd94e136da2/Placer_ai_Logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/placerai"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
         "name": "Popeyes",
         "names": [
             "Popeyes"
@@ -4607,6 +6504,25 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Powtoon",
+        "names": [
+            "Powtoon"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Powtoon is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/fe4f59e7-0137-4af1-993b-dcea3e99c099/download-3/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/powtoon"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
         ]
     },
     {
@@ -4695,7 +6611,7 @@
             "Puma"
         ],
         "subtitle": "Puma is a German sportswear manufacturer and retailer sponsors athletes and teams in various sports.",
-        "description": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel’s illegal settlements on occupied Palestinian land.",
+        "description": "Puma is the main sponsor of the Israel Football Association (IFA), which includes teams in Israel's illegal settlements on occupied Palestinian land.",
         "imageUrl": "https://staticg.sportskeeda.com/editor/2023/03/bda84-16779522739911-1920.jpg",
         "supportUrls": [
             {
@@ -4778,6 +6694,44 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "Qwak",
+        "names": [
+            "Qwak"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Qwak is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/949f392c-0bcd-4c38-b0af-6192eb92fcf7/logo_qwak-inerpage/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/qwak"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
+        "name": "Radware",
+        "names": [
+            "Radware"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Radware is an Israeli tech company",
+        "imageUrl": "https://pbs.twimg.com/profile_images/971426878870441984/XfFqpXy2_400x400.jpg",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/radware"
+            }
+        ],
+        "categories": [
+            "technology",
+            "hardware"
         ]
     },
     {
@@ -4912,6 +6866,44 @@
         ]
     },
     {
+        "name": "Receive",
+        "names": [
+            "Receive"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Receive is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/4a47caef-7c57-4c74-ac13-87e23436909c/receive/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/receive"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
+        "name": "Regatta Data",
+        "names": [
+            "Regatta Data"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Regatta Data is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/8d8ee867-9b4e-4497-a9e5-8ba85726d774/Regatta_Logo_CMYK/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/regatta-data"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
+        ]
+    },
+    {
         "name": "Rentalcars.com",
         "names": [
             "Rentalcars.com"
@@ -4951,6 +6943,44 @@
         ]
     },
     {
+        "name": "Riskified",
+        "names": [
+            "Riskified"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Riskified is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/cc1c7dc6-28b3-443f-847e-f4bb585af9d1/Riskified_logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/riskified"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
+        "name": "Ritual",
+        "names": [
+            "Ritual"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Ritual is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/70165f88-9dc3-4159-b500-ebac32ed571d/ritual/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/ritual"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
+        ]
+    },
+    {
         "name": "Ritz",
         "names": [
             "Ritz"
@@ -4987,6 +7017,44 @@
         ]
     },
     {
+        "name": "Riverside.fm",
+        "names": [
+            "Riverside.fm"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Riverside.fm is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e5b52791-8393-4db7-8b5a-1774af79ed02/IMG_7807/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/riversidefm"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
+        "name": "Rivery",
+        "names": [
+            "Rivery"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Rivery is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/12d77274-da46-4d5c-87ff-4c31842367a0/1613496076345/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/rivery"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
+        ]
+    },
+    {
         "name": "Rockstar Energy",
         "names": [
             "Rockstar Energy"
@@ -5020,6 +7088,25 @@
         ],
         "categories": [
             "petcare"
+        ]
+    },
+    {
+        "name": "Rupert",
+        "names": [
+            "Rupert"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Rupert is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7169f551-4a49-4888-970d-0c97a5716adf/rupert/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/rupert"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
         ]
     },
     {
@@ -5077,6 +7164,44 @@
         ]
     },
     {
+        "name": "Salt Security",
+        "names": [
+            "Salt Security"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Salt Security is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9230298b-5038-45ee-a943-715bcdf70079/Salt_logo_full_color_RGB_final_(1)/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/salt-security"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
+        "name": "Salto",
+        "names": [
+            "Salto"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Salto is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e57bb9a3-2a5e-423c-8faa-4a5870faf327/Salto_Logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/salto"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "SAP",
         "names": [
             "SAP"
@@ -5118,7 +7243,7 @@
             "Scotia Bank"
         ],
         "subtitle": "Canadian multinational banking and financial services company",
-        "description": "Scotiabank’s asset fund put $500 million into Elbit Systems Ltd, the Israeli weapons manufacturer.",
+        "description": "Scotiabank's asset fund put $500 million into Elbit Systems Ltd, the Israeli weapons manufacturer.",
         "imageUrl": "https://logosandtypes.com/wp-content/uploads/2020/08/Scotiabank.png",
         "supportUrls": [
             {
@@ -5128,6 +7253,25 @@
         ],
         "categories": [
             "finance"
+        ]
+    },
+    {
+        "name": "Sentra",
+        "names": [
+            "Sentra"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Sentra is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dcd8e76a-062c-4056-81b1-8c12db3cdb4d/Sentra-logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/sentra"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -5240,6 +7384,44 @@
         ]
     },
     {
+        "name": "Silverfort",
+        "names": [
+            "Silverfort"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Silverfort is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/0a972bba-0812-495a-928e-ed04dbb47a7a/Screenshot_2023-10-30_at_13.55.33/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/silverfort"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
+        "name": "Similarweb",
+        "names": [
+            "Similarweb"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Similarweb is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dc6c042d-4968-4bea-837c-173618d722b7/swlogo-og2023/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/similarweb"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
         "name": "Simply Beverages",
         "names": [
             "Simply Beverages"
@@ -5255,6 +7437,25 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Sisense",
+        "names": [
+            "Sisense"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Sisense is an Israeli tech company",
+        "imageUrl": "https://d3an9kf42ylj3p.cloudfront.net/uploads/2022/01/Sisense-Logo-Vertical-black.png",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/sisense"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
         ]
     },
     {
@@ -5365,6 +7566,25 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "Snyk",
+        "names": [
+            "Snyk"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Snyk is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1c840dfc-c016-4abd-9f5f-88a8835ac038/snyk/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/snyk"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -5500,6 +7720,44 @@
         ]
     },
     {
+        "name": "Stuff That Works",
+        "names": [
+            "Stuff That Works"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Stuff That Works is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/430916fc-373f-4334-9c19-e4482744e856/stuffthatworks/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/stuff-that-works"
+            }
+        ],
+        "categories": [
+            "technology",
+            "healthcare"
+        ]
+    },
+    {
+        "name": "Substrata",
+        "names": [
+            "Substrata"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Substrata is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b15d7fea-79a8-4550-8cca-ff8153a85c77/substrata_ko/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/substrata"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
         "name": "Sudocrem",
         "names": [
             "Sudocrem"
@@ -5535,6 +7793,44 @@
         ],
         "categories": [
             "household"
+        ]
+    },
+    {
+        "name": "Sweep",
+        "names": [
+            "Sweep"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Sweep is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3b9de215-0193-45ad-a044-60941b02d495/sweep/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/sweep"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
+        "name": "Swimm",
+        "names": [
+            "Swimm"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Swimm is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f2d4191e-f32d-4dc9-a524-2de0602e9ab3/code_block_Shirley_Schoenfeld/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/swimm"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
         ]
     },
     {
@@ -5594,6 +7890,25 @@
         ]
     },
     {
+        "name": "Talon",
+        "names": [
+            "Talon"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Talon is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e2f2990b-dd3d-40e5-b634-28984a975f34/Logo03/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/talon"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
         "name": "Tampax",
         "names": [
             "Tampax"
@@ -5635,7 +7950,7 @@
             "Ted Baker"
         ],
         "subtitle": "Clothing retailer based in the UK.",
-        "description": "A five-year agreement since 2018 allows Delta Galil to develop, produce and distribute men’s underwear, loungewear and thermal wear for Ted Baker exclusively worldwide.",
+        "description": "A five-year agreement since 2018 allows Delta Galil to develop, produce and distribute men's underwear, loungewear and thermal wear for Ted Baker exclusively worldwide.",
         "imageUrl": "https://cdn.worldvectorlogo.com/logos/ted-baker.svg",
         "supportUrls": [
             {
@@ -5783,6 +8098,44 @@
         ]
     },
     {
+        "name": "TimeOS",
+        "names": [
+            "TimeOS"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "TimeOS is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c3a72217-f47c-42a8-ad01-c1393651d207/timeOS/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/timeos"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
+        ]
+    },
+    {
+        "name": "Tipalti",
+        "names": [
+            "Tipalti"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Tipalti is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5c7b5571-987e-490d-92ee-6a38fe046ac3/Tipalti_Logo.svg/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/tipalti"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
         "name": "Toblerone",
         "names": [
             "Toblerone"
@@ -5798,6 +8151,25 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "Tolstoy",
+        "names": [
+            "Tolstoy"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Tolstoy is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/da6164fd-9314-4af2-81ee-90cfc9020874/633ec1755a84a84fdc4915d4_Cover/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/tolstoy"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
         ]
     },
     {
@@ -5857,6 +8229,25 @@
         ]
     },
     {
+        "name": "Trendemon",
+        "names": [
+            "Trendemon"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Trendemon is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e70a06ad-65e0-483b-a26f-a4c86c825e73/TrenDemon_logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/trendemon"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
         "name": "Tresemme",
         "names": [
             "Tresemme"
@@ -5876,6 +8267,44 @@
         ]
     },
     {
+        "name": "Trigo",
+        "names": [
+            "Trigo"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Trigo is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/67864733-8fe7-438d-8820-c649883cc244/Trigo_Logo_R/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/trigo"
+            }
+        ],
+        "categories": [
+            "technology",
+            "commerce"
+        ]
+    },
+    {
+        "name": "TripleWhale",
+        "names": [
+            "TripleWhale"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "TripleWhale is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/a615ed92-03af-45a4-a45b-8731f9e9749e/IMG_7803/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/triplewhale"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
+        ]
+    },
+    {
         "name": "Tropicana",
         "names": [
             "Tropicana"
@@ -5891,6 +8320,44 @@
         ],
         "categories": [
             "drinks"
+        ]
+    },
+    {
+        "name": "Trullion",
+        "names": [
+            "Trullion"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Trullion is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/a93daf5e-7ad9-499d-8ed6-bc0cd8fc56e9/Trullion-Combo-Forest/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/trullion"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
+        "name": "Tufin",
+        "names": [
+            "Tufin"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Tufin is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e210e21d-ef05-45a1-b138-954b52d4e14c/tufinlogo-1/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/tufin"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
         ]
     },
     {
@@ -5950,6 +8417,25 @@
         ]
     },
     {
+        "name": "Unit",
+        "names": [
+            "Unit"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Unit is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9a9e7272-5a7e-4405-88ed-12a2f78fcfee/Screenshot_2023-10-30_at_10.03.51/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/unit"
+            }
+        ],
+        "categories": [
+            "technology",
+            "finance"
+        ]
+    },
+    {
         "name": "Urban Decay",
         "names": [
             "Urban Decay"
@@ -6003,6 +8489,25 @@
         ],
         "categories": [
             "healthcare"
+        ]
+    },
+    {
+        "name": "Verbit",
+        "names": [
+            "Verbit"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Verbit is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2571a9fa-8d41-4c2c-9265-951f60d13c0b/ee8b3285-d5e6-4fee-9938-08c256c38e0b/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/verbit"
+            }
+        ],
+        "categories": [
+            "technology",
+            "productivity"
         ]
     },
     {
@@ -6190,6 +8695,25 @@
         ]
     },
     {
+        "name": "Walkme",
+        "names": [
+            "Walkme"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Walkme is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/fa0352a4-f47a-41db-8b10-a6dbe34c4e72/walkme-logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/walkme"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
+        ]
+    },
+    {
         "name": "Walls Ice Creams",
         "names": [
             "Walls Ice Creams"
@@ -6227,6 +8751,25 @@
             "healthcare",
             "cosmetics",
             "supermarket"
+        ]
+    },
+    {
+        "name": "Walnut",
+        "names": [
+            "Walnut"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Walnut is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1c974c40-34d9-4c32-9514-7a46a968828e/walnut_logo_freelogovectors.net_/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/walnut"
+            }
+        ],
+        "categories": [
+            "technology",
+            "sales"
         ]
     },
     {
@@ -6285,6 +8828,25 @@
         ]
     },
     {
+        "name": "Wilco",
+        "names": [
+            "Wilco"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Wilco is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/9607275a-f45c-4c81-a71f-2471b2ee51e0/Wilco_Logo/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/wilco"
+            }
+        ],
+        "categories": [
+            "technology",
+            "development"
+        ]
+    },
+    {
         "name": "Wix",
         "names": [
             "Wix"
@@ -6303,6 +8865,25 @@
         ]
     },
     {
+        "name": "Wiz",
+        "names": [
+            "Wiz"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Wiz is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b1fbb32c-c0cb-4893-b811-3cce6f52d6db/social_share_image.537ea7b6/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/wiz"
+            }
+        ],
+        "categories": [
+            "technology",
+            "security"
+        ]
+    },
+    {
         "name": "Wrigley's Extra",
         "names": [
             "Wrigley's Extra"
@@ -6318,6 +8899,25 @@
         ],
         "categories": [
             "food"
+        ]
+    },
+    {
+        "name": "Yotpo",
+        "names": [
+            "Yotpo"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Yotpo is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/aa01775f-72d3-43e4-a404-74a1fdbf7600/Yotpo-logo.svg/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/yotpo"
+            }
+        ],
+        "categories": [
+            "technology",
+            "marketing"
         ]
     },
     {
@@ -6376,6 +8976,25 @@
         "categories": [
             "fashion",
             "clothing"
+        ]
+    },
+    {
+        "name": "Zesty",
+        "names": [
+            "Zesty"
+        ],
+        "subtitle": "Israeli tech company",
+        "description": "Zesty is an Israeli tech company",
+        "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dd6d84de-86bf-494c-bbfb-2d1be99c59eb/download/w=450",
+        "supportUrls": [
+            {
+                "name": "Proof",
+                "url": "https://buyisraelitech.com/database/zesty"
+            }
+        ],
+        "categories": [
+            "technology",
+            "cloud"
         ]
     }
 ]
