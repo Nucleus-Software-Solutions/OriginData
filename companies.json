@@ -938,24 +938,6 @@
         ]
     },
     {
-        "name": "Ben and Jerry's",
-        "names": [
-            "Ben and Jerry's"
-        ],
-        "subtitle": "Ice cream brand owned by Unilever.",
-        "description": "Ben & Jerry's is owned by Unilever. When Ben & Jerry's decided to stop selling its products in Israel, Unilever sold off the Israeli distribution rights to Avi Zinger to circumvent their decision and to force Ben & Jerry's brand name to continue selling in Israel.",
-        "imageUrl": "https://cdn.sanity.io/images/92ui5egz/production/bdfd6b3653902d668fa8fa5c430ab63be1676271-280x280.png",
-        "supportUrls": [
-            {
-                "name": "Proof",
-                "url": "https://www.unilever.com/news/press-and-media/press-releases/2022/unilever-reaches-new-business-arrangement-for-ben-jerrys-in-israel/"
-            }
-        ],
-        "categories": [
-            "food"
-        ]
-    },
-    {
         "name": "Ben's Originals",
         "names": [
             "Ben's Originals"
